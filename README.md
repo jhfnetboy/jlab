@@ -1,6 +1,6 @@
 'NLP Basic principles by jLab.tech'
 #NLP Basic principles by jLab.tech
-+ I am one of the guies who want to find something interesting,so i got the work NLP and want to do some jobs on it:)
++ I am one of the guys who want to find something interesting,so i got the work NLP and want to do some jobs on it:)
 + maybe you will ask me :what is the NLP?,give me five ,nono,only three minutes,show you the way!
 
 
