@@ -57,6 +57,7 @@ def upload_file():
         file = request.files['file']
         if file and allowed_file(file.filename):
             filename = str(time.time())
+            #print file.read()
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename+'.txt'))
             return redirect(url_for('upload_file',filename=filename))
     return up_page
