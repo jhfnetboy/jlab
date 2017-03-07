@@ -57,6 +57,7 @@ def upload_file():
         file = request.files['file']
         if file and allowed_file(file.filename):
             filename = str(time.time())
+            process_txt(file.read())
             #print file.read()
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename+'.txt'))
             return redirect(url_for('upload_file',filename=filename))
@@ -66,6 +67,15 @@ def upload_file():
 def allowed_file(filename):
     return '.' in filename and \
            filename.rsplit('.', 1)[1] in ALLOWED_EXTENSIONS
+
+
+def process_txt(content):
+    '''
+    get txt content
+    :return a statstic list and a word cloud png:
+    '''
+    if not content:
+        return False
 
 
 # curl -F 'file=@"foo.png";filename="bar.png"' 127.0.0.1:5000
