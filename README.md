@@ -40,3 +40,11 @@ similar approaches.you can find scenario like this:Word segmentation,Part-Of-Spe
     nh  person name 杜甫, 汤姆  x   non-lexeme  萄, 翱
 + !['POS TAGING 863'] (863_POS_TAGING.png)   
 + 3.
+
+
+## A Package by jLab to process NLP
++ 以下TODO：写一个自己的包，NLP的；集成一个开发环境，DL的，最好加入docker
++ 1.http://www.cnblogs.com/streakingBird/p/4056765.html
++ GPG :https://www.gnupg.org/howtos/zh/GPGMiniHowto-2.html
++ https://pypi.python.org/pypi?:action=login
++ 2.https://my.oschina.net/u/2306127/blog/636289

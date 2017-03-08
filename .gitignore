@@ -90,3 +90,4 @@ ENV/
 
 # vendor python sources
 wcloud/
+wcloud2/

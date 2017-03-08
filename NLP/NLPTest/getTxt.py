@@ -72,7 +72,7 @@ def allowed_file(filename):
 def process_txt(content):
     '''
     get txt content
-    :return a statstic list and a word cloud png:
+    :return a statstic numbers list and a word cloud png:
     '''
     if not content:
         return False
