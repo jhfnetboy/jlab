@@ -1,0 +1,696 @@
+http://www.biquge.com/ | 笔趣阁_无弹窗书友最值得收藏的网络小说阅读网
+
+https://wenku.baidu.com/view/b10e8e7402768e9951e7380f.html | 【图文】NLP(自然语言处理)-ch1_百度文库
+http://www.leiphone.com/news/201608/nBZ8goAlOaKEEYrQ.html | Pedro Domingos深度解析机器学习五大流派中主算法精髓 | 雷锋网
+https://www.zhihu.com/question/21063208 | 自然语言处理和语音的关系是什么，和机器学习又是什么关系？ - 知乎
+http://baike.baidu.com/item/%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E6%A8%A1%E5%9E%8B | 马尔可夫模型_百度百科
+https://yq.aliyun.com/articles/65564 | HMM 隐马尔可夫模型-博客-云栖社区-阿里云
+http://www.kancloud.cn/thinkphp/hmm/45495 | 最大熵模型 - [ 一文搞懂HMM（隐马尔可夫模型） ]
+http://127.0.0.1:5000/u?filename=1488871314.72 | Upload new File
+https://www.52ml.net/17463.html | 自己动手做聊天机器人 十二-教你如何利用强大的中文语言技术平台做依存句法和语义依存分析 – 我爱机器学习
+http://www.ltp-cloud.com/document/ | 语言云API | 语言云（语言技术平台云 LTP-Cloud）
+https://github.com/rhiever/reddit-analysis | rhiever/reddit-analysis: A Python script that parses post titles, self-texts, and comments on reddit and makes word clouds out of the word frequencies.
+https://github.com/amueller/word_cloud | amueller/word_cloud: A little word cloud generator in Python
+https://github.com/FantasRu/WordCloud | FantasRu/WordCloud: 利用python制作中文词云
+https://github.com/paul-nechifor/reddit-cloud | paul-nechifor/reddit-cloud: A Reddit bot which creates word clouds for submissions.
+https://github.com/minimaxir/stylistic-word-clouds | minimaxir/stylistic-word-clouds: Python scripts for creating stylistic word clouds
+https://github.com/defacto133/twitter-wordcloud-bot | defacto133/twitter-wordcloud-bot: A twitter bot which generates word cloud images of other twitter users.
+https://github.com/larsmans/weighwords | larsmans/weighwords: Python library for creating word clouds from text
+https://github.com/vdmitriyev/services-to-wordcloud | vdmitriyev/services-to-wordcloud: Tiny python utility that converts data crawled from different services into cloud of words.
+https://github.com/alvations/translation-cloud | alvations/translation-cloud: Visualizing word translations as clouds.
+http://www.ltp-cloud.com/intro/#ltp_cloud | 简介 | 语言云（语言技术平台云 LTP-Cloud）
+http://www.iciba.com/%E7%BB%9F%E8%AE%A1 | 统计的英文_统计的英语翻译_统计用英语怎么说_爱词霸在线词典
+http://mba.zju.edu.cn/cncenter/eventdetail/16/790 | 【招聘会】2017年浙江大学管理学院高端人才招聘会_浙江大学MBA教育中心
+http://cn.bing.com/search?q=MAC+%E5%AE%89%E8%A3%85+PIL&qs=n&form=QBRE&sp=-1&pq=mac+%E5%AE%89%E8%A3%85+pil&sc=2-12&sk=&cvid=CB5D5B4BB7B44C81B3368FBAE1485DAD | MAC 安装 PIL - 必应
+http://www.qinbin.me/mac%e5%ae%89%e8%a3%85pil/ | MAC安装PIL | 小木同(Ben)
+http://stackoverflow.com/questions/19532125/cant-install-pil-after-mac-os-x-10-9 | python - Can't install PIL after Mac OS X 10.9 - Stack Overflow
+http://blog.csdn.net/liushuaikobe/article/details/8729652 | Mac OS安装PIL - To be a Tough Man——liushuaikobe - 博客频道 - CSDN.NET
+http://stackoverflow.com/questions/9070074/how-can-i-install-pil-on-mac-os-x-10-7-2-lion | python - How can I install PIL on mac os x 10.7.2 Lion - Stack Overflow
+http://stackoverflow.com/questions/20060096/installing-pil-with-pip | python - Installing PIL with pip - Stack Overflow
+
+https://m.bosszhipin.com/job_detail/1406965383.html | 【java技术专家-架构师招聘】阿里巴巴集团java技术专家-架构师招聘-BOSS直聘
+https://m.bosszhipin.com/job_detail/1406389752.html?ka=search_list_7 | 【技术总监招聘】同盾科技技术总监招聘-BOSS直聘
+https://m.bosszhipin.com/job_detail/1406787294.html | 【大数据技术专家招聘】同盾科技大数据技术专家招聘-BOSS直聘
+
+http://docs.jinkan.org/docs/flask/quickstart.html | 快速入门 — Flask 0.10.1 文档
+http://docs.jinkan.org/docs/flask/patterns/fileuploads.html#uploading-files | 上传文件 — Flask 0.10.1 文档
+https://segmentfault.com/q/1010000002909790 | python - flask如何获取POST过来的xml类型的二进制文件？ - SegmentFault
+https://segmentfault.com/search?q=flask+request%E5%AF%B9%E8%B1%A1&page=2 | 搜索 flask request对象 - SegmentFault
+https://segmentfault.com/q/1010000005155007 | python - Flask中的Flask对象如何在其他蓝图模块中使用？ - SegmentFault
+https://segmentfault.com/a/1190000008404692 | 使用 Flask 开发 Web 应用（一） - 粲言堂 - SegmentFault
+https://github.com/ethan-funny/head-first-flask | ethan-funny/head-first-flask: Introduction to Flask Web development.
+https://segmentfault.com/a/1190000002454953 | Flask信号机制(signals) - digwtx - SegmentFault
+http://flask.pocoo.org/docs/0.12/ | Welcome to Flask — Flask Documentation (0.12)
+http://127.0.0.1:5000/nlp | jLab.tech NLP page
+http://127.0.0.1:5000/u | BuildError: Could not build url for endpoint 'uploaded_file' with values ['filename']. Did you mean 'upload_file' instead? // Werkzeug Debugger
+https://job.alibaba.com/zhaopin/PositionDetail.htm?positionId=22887 | 职位详情 - 阿里巴巴集团招聘
+https://job.alibaba.com/zhaopin/PositionDetail.htm?positionId=17835 | 职位详情 - 阿里巴巴集团招聘
+https://job.alibaba.com/zhaopin/PositionDetail.htm?positionId=29736 | 职位详情 - 阿里巴巴集团招聘
+https://c.liepin.com/resume/resumeviewedlog/?querytype=userh | 近期谁看过我的简历_简历_猎聘猎头网:Liepin.com
+https://m.bosszhipin.com/job_detail/1406955796.html | 【java架构师/业务架构师招聘】蚂蚁金服java架构师/业务架构师招聘-BOSS直聘
+https://m.bosszhipin.com/job_detail/1400308774.html | 【CTO招聘】磁云数字科技CTO招聘-BOSS直聘
+https://m.bosszhipin.com/job_detail/1406930090.html | 【Java架构师（电商基础）招聘】美丽联合集团Java架构师（电商基础）招聘-BOSS直聘
+https://m.bosszhipin.com/job_detail/1406717454.html | 【CTO招聘】遥望网络CTO招聘-BOSS直聘
+
+https://mp.weixin.qq.com/s?__biz=MzI5NDM3MjkyNw==&mid=2247484353&idx=1&sn=23a77634dbddbbde5c5371a30211f97d&chksm=ec629091db151987346db7fec3060a8a23e969bb6d35fb9e03cc34f6d08e71a88858d12dc54e&scene=0&key=13841a44f6a8c2c831d81b443fbe44bd5ef6dd7bc39c002c1ca351358855445d7fc1c608b7ccbcb39c28ab32804deb8b9e63c013d8a8f93d21b761434c467c1f50f01c9423e13d6e994ab752d885bf91&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2109)&version=12010310&nettype=WIFI&fontScale=100&pass_ticket=SLvg5fb9%2BZ9jENKiYmvSOg1oA4YKwD4Kc5PTe0Ybr%2BvGdDLZu71RbYcFiN0h%2BIHQ | 刷爆美国人的朋友圈：生命太短暂，我没时间讨厌你！
+https://mp.weixin.qq.com/s?__biz=MzAwOTMwOTc3MA==&mid=2650484154&idx=1&sn=e8ed8abccc7fffb1dc32b2e0d579453d&chksm=836e169fb4199f89287d1ddd3eac08cbd6bc50f47376b3a5c07a52902e12ef714426ca0de633&scene=0&key=662b350e315ebcabc6e17f44c76c443b4b2ea588dba375263ffff7056144a61ac62e8abb688f8f649e490ca85f822a221b2f5463d372f8b2bd9eeecf2b42e1ac29ab9651ba739f1e3626281954f27a0f&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2109)&version=12010310&nettype=WIFI&fontScale=100&pass_ticket=SLvg5fb9%2BZ9jENKiYmvSOg1oA4YKwD4Kc5PTe0Ybr%2BvGdDLZu71RbYcFiN0h%2BIHQ | 解读中国金融业的赌场生态逻辑：谁在印扑克？谁在出老千？
+http://confluence.weichedao.com/pages/viewpage.action?pageId=14714814 | 上线规范 - ERP - Confluence
+https://mp.weixin.qq.com/s?__biz=MzAxMDc3MjQ5Mw==&mid=2655537913&idx=1&sn=17f13cc421bb27d2079b18888e562466&chksm=80f7a39bb7802a8d2dcc5c6a5d47a13f5086f2ceb8d4d6e4589c2a4f0be1d03d7034ac0f1d88&scene=0&key=662b350e315ebcab334e326d8f19e9a3679b03eb436043c112d454618a1a1c5e5afee78bf47592683254079a2ca7a947a4d3a394d9465031c1c5b668935e08de727b6c448d7cbb5ff54c21f3845b77a3&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2109)&version=12010310&nettype=WIFI&fontScale=100&pass_ticket=SLvg5fb9%2BZ9jENKiYmvSOg1oA4YKwD4Kc5PTe0Ybr%2BvGdDLZu71RbYcFiN0h%2BIHQ | 巴菲特2017年致股东信：咬一口苹果赚了16亿，他说这个行业有危机
+https://mp.weixin.qq.com/s?__biz=MzAxMDc3MjQ5Mw==&mid=2655537913&idx=5&sn=11a4ed5f91af4b57c4f59df50a3f6419&chksm=80f7a39bb7802a8d49a699b95be655a29f2fd11f64b700cc5a39591969ee7a980cd73f1138c3&scene=0&key=13841a44f6a8c2c8c65d6e0b16aaf200a0e3b3d8884a0b935ae82893690b821faead16857e8f7a3715ada9bc633c764fd9fa4b85a2a786e2b5a002aa6737da06c0f71cfb7afa0f7d7cac5cb01e5d5971&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2109)&version=12010310&nettype=WIFI&fontScale=100&pass_ticket=SLvg5fb9%2BZ9jENKiYmvSOg1oA4YKwD4Kc5PTe0Ybr%2BvGdDLZu71RbYcFiN0h%2BIHQ | 【盘前论股】短线投资者应注意“阴为阳，阳为阴”的市场规则
+https://www.graffletopia.com/popular | Popular stencils | Graffletopia
+https://www.graffletopia.com/stencils?page=6 | Newest stencils | Graffletopia
+https://www.graffletopia.com/stencils/1564 | Relation extraction | Graffletopia
+https://www.graffletopia.com/stencils/1560 | TCP Sequence diagram | Graffletopia
+https://www.graffletopia.com/stencils/1580 | Image Annotations | Graffletopia
+
+http://www.tinysoft.com.cn/TSDN/HelpDoc/display.tsl?id=15277 | 天软第八届（2016）杭州金融工程平台及量化投资方法研讨会圆满落幕
+http://www.tinysoft.com.cn/cgi-bin/GetNews.TSL?type=ab | www.tinysoft.com.cn/cgi-bin/GetNews.TSL?type=ab
+http://www.tinysoft.com.cn/tsdn/helpdoc/index.tsl?itemid=15277 | 天软技术支持
+http://dataunion.org/9805.html | 数据科学的完整学习路径—Python版 | 数盟社区
+http://www.rinfinance.com/ | R/Finance 2017
+https://github.com/sinall/ShiPanE-Python-SDK | sinall/ShiPanE-Python-SDK: 实盘易（ShiPanE）Python SDK，通达信自动化交易 API 及量化平台。
+http://rqalpha.readthedocs.io/zh_CN/stable/intro/install.html | 安装指南 — rqalpha 0.3.x 文档
+https://github.com/cedricporter/funcat | cedricporter/funcat: Funcat 将同花顺、通达信等的公式写法移植到了 Python 中。
+https://github.com/QuantFans/quantdigger | QuantFans/quantdigger: 基于python的量化交易平台
+https://github.com/haydengao/quant | haydengao/quant: 给亘沣做的量化交易系统，用 Python3.5 版本
+https://github.com/maihde/quant | maihde/quant: Quant is a python-based system for stock trading strategy backtesting
+https://github.com/FutunnOpen/OpenQuant | FutunnOpen/OpenQuant: 富途量化投资平台
+http://www.futunn.com/ | 富途牛牛-模拟炒股,港股美股A股模拟交易,股票实时行情-富途牛牛
+https://github.com/vex1023/vxAlgo | vex1023/vxAlgo: 一个简单的量化投资框架
+https://github.com/sjtudclab/quant_web | sjtudclab/quant_web: 量化投资策略分析
+https://github.com/xubeng/python- | xubeng/python-: 个人量化投资实验项目
+https://mp.weixin.qq.com/s?__biz=MjM5NDI3NjE0MQ==&mid=2651288459&idx=2&sn=d801fcccc16a8e82290253f88d58de45&chksm=bd79e5c98a0e6cdf78c9321fc57ede879767e10e2cc5611ae7102ebedb8768554727c5f59f54&scene=0&key=864308c0e30741a83affaed99cae6ce33470251a6b0cfb3a9c26d8873f1864c8c2da7b520c8fc775fb4502e32d3608d7d3ef2b8ce3933a870b0701d4c184e57c92f4bae59f0abbb291d9804aa05b06c6&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2109)&version=12010310&nettype=WIFI&fontScale=100&pass_ticket=JkD%2FxocpwYM4RmMYPzLIEqI8RTKVLSQxt5FPhr%2F9Wjrne5Xyn%2BctRzNVaLRS8bi0 | 10年HR告诉你：哪些领域和职位最看重CFA？
+http://forum.myquant.cn/ | (2) 掘金量化社区
+https://www.oschina.net/p/dockerfly | DockerFly首页、文档和下载 - Docker 的 Web 管理工具 - 开源中国社区
+
+http://www.8btc.com/antshares-wings | 小蚁与Wings达成全方位战略合作，将共同开发市场和区块链技术_巴比特_服务于区块链创新者
+https://wings.ai/ | WINGS DAO
+https://alpha.wings.ai/#!/home/index | Wings - DAO Platform
+https://github.com/AntShares/AntShares.VM | AntShares/AntShares.VM
+http://bizhongchou.com/deal-show/id-204.html | 维优-元界Metaverse - 币众筹 - 区块链众筹平台
+http://blockchaindev.org/article/introduce_blockchain.html | 区块链(Blockchain)深入介绍--blockchaindev.org
+https://www.zhihu.com/question/22076666 | 比特币是什么？ - 知乎
+http://www.alibaba-jobs.com/tag/%e8%9a%82%e8%9a%81%e9%87%91%e6%9c%8d/ | 蚂蚁金服 | Alibaba Jobs!
+http://mp.weixin.qq.com/s/6PmcXJZVyWYZPssveeNkIw?lwfrom=user_dingfriend | 阿里分布式消息中间件RocketMQ的设计思路与技术细节
+https://mp.weixin.qq.com/s?__biz=MjM5NTkzMjY1Mw==&mid=2651894458&idx=1&sn=bf233cd36f2d45c893403fa0b450e2b0&chksm=bd14e2388a636b2ef267302e5bbd9d0dfad8e27083ff36fdacccea81f82cc95c80f411267593&scene=0&key=717be749d32c8e13d035be7ca6f4d4a4f7a3c576bce8887cc8a6651741c400cf4cc3d08189333e6fe360918f78e2ccf03c07439d8010e4683fb7f99cd17832f3ccad7224e0754cab3f5e7bf2540cbf6b&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2109)&version=12010310&nettype=WIFI&fontScale=100&pass_ticket=6VWRk1X1%2BnoBj8SDWso494hvzjUgxXMVs7uhO%2FW65dtMz5F2HEJlFqbNt%2BV%2FccoR | 互联网+金交所模式的终结：京东白拿案后评
+http://wiki.ros.org/Robots | Robots - ROS Wiki
+http://wiki.ros.org/Robots/Crazyflie | Robots/Crazyflie - ROS Wiki
+http://wiki.ros.org/Robots/AR10 | Robots/AR10 - ROS Wiki
+https://github.com/jkingyens/docker4xcode | jkingyens/docker4xcode: Build, ship and run iOS apps like docker containers
+http://apple.stackexchange.com/questions/250831/docker-for-ipad | ios - Docker for iPad - Ask Different
+http://www.bkjia.com/yjs/923504.html | Docker 安装 on Mac OS X，dockeros_云计算 | 帮客之家
+http://stackoverflow.com/questions/25817461/using-docker-on-android | mobile - Using Docker on Android - Stack Overflow
+http://stackoverflow.com/questions/19315168/running-docker-on-android | linux - Running docker on Android - Stack Overflow
+http://www.antfans.org/?/article/129 | 从互联网金融到金融科技,谈一谈其内在的演进脉络 - 小蚁爱好者论坛
+http://www.8btc.com/onchain-hyperledger | Onchain小蚁加盟“超级账本”，参与制定区块链国际标准_巴比特_服务于区块链创新者
+
+https://mp.weixin.qq.com/s?__biz=MjM5NDI3NjE0MQ==&mid=2651288398&idx=1&sn=ed2eadf599a943d26710aedbc57ddfb5&chksm=bd79e50c8a0e6c1a87ae93e1017abc10b3142b429a117e72667c14d3b5512b4b9d14b8b38e00&scene=0&key=2c28c9c8a28bb815b8f8c14e90b5f5f85e09ebc06b121b6fdc44afcc0398a6e5bb79422563ff7a5199a21cdc1d112fa7d5903d2568817a52afa5de16977fecfe1b16f7336dd30726be10ead297a7ebdd&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2109)&version=12010110&nettype=WIFI&fontScale=100&pass_ticket=66CsnK%2FTAHu3vi5d6gtaxAv0y9CgFK%2B3eQCMFfrkls0vlzK9XjA3cp00%2BjXq3Jw0 | 大学毕业二十年，亿万富翁与一无所有的差距，全在这两件事！
+http://hzdaily.hangzhou.com.cn/dskb/html/2016-05/17/content_2265585.htm | “PingPong金融”CEO陈宇 做中国人自己的跨境收款方案·都市快报
+http://www.tmtpost.com/1498771.html | 比特币核心开发者的控诉：比特币这场实验快要完蛋了-钛媒体官方网站
+http://www.btc38.com/ | 比特时代-领先的区块链服务商-比特币|莱特币|狗狗币|比特股|瑞波币
+http://www.btc38.com/news/2017/2/13462.html | [BLK]第一次中国地区黑币发展会议成功召开成果颇丰
+https://github.com/bitcoin/bitcoin | bitcoin/bitcoin: Bitcoin Core integration/staging tree
+http://www.8btc.com/ppkpub_blockchain_develope_lesson_3 | 比特币区块链开发由浅入深指南（三）_巴比特_服务于区块链创新者
+http://book.8btc.com/master_bitcoin | 精通比特币 | 巴比特图书
+http://8btc.com/thread-622-1-1.html | 巴比特“光之锥”开放原创计划 - 巴比特
+http://book.8btc.com/books/1/master_bitcoin/_book/ | 介绍 · 精通比特币-巴比特图书
+https://www.jubi.com/btc/2054.html | 比特币用户和开发阶层之间的纠葛－聚币网
+
+https://github.com/jhfnetboy/vnpy | jhfnetboy/vnpy: 基于python的开源量化交易平台开发框架
+http://www.ltp-cloud.com/intro/#pos_how | 简介 | 语言云（语言技术平台云 LTP-Cloud）
+http://pyltp.readthedocs.io/zh_CN/latest/api.html | 使用 pyltp — pyltp 0.1.9 文档
+http://ltp.readthedocs.io/zh_CN/latest/api.html | 使用编程接口 — LTP 3.3 文档
+http://www.docker.org.cn/book/install/supported-platform-17.html | Docker支持的安装方式 - Docker安装手册 - docker中文社区
+http://www.docker.org.cn/book/docker/docker-install-package-9.html | 在容器中安装新的程序 - Docker入门教程 - docker中文社区
+http://192.168.99.100:32769/
+http://cn.bing.com/dict/search?q=innovate&FORM=BDVSP6&mkt=zh-cn | innovate - 必应 词典
+http://cn.bing.com/search?q=Docker%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83&go=%E6%8F%90%E4%BA%A4&qs=n&form=QBLH&pq=ai&sc=8-2&sp=-1&sk=&cvid=5728607A081241E19A952AD583257FF2 | Docker打造自己的开发环境 - 必应
+http://www.aichengxu.com/other/11066784.htm | Docker入门实践(四) 打造自己的开发环境镜像 - 爱程序网
+https://docs.docker.com/engine/understanding-docker/ | Docker Overview - Docker
+
+http://www.cnblogs.com/e2tox/p/4027756.html | Docker 的 Image 太大，怎么变小？ - TOX - 博客园
+http://microbox.io/ | Microbox by microbox
+http://www.ibm.com/developerworks/cn/devops/1601_kongyi_devopsdockerimages/index.html | DevOps 流程中对于 Docker Image 的分层管理与实践
+http://www.chinacloud.cn/show.aspx?id=17411&cid=11 | 利用Docker构建开发环境
+https://mp.weixin.qq.com/s?__biz=MzIwMTEyMzA4OA==&mid=2654690412&idx=1&sn=97e346d5e55e472a2e10cba4a5f39704&chksm=8d3d4813ba4ac1054bde9c9acce0c28bdf5127be88032a6869419f3facd2bc415f0579798e61&mpshare=1&scene=1&srcid=0207c8mEWoqvaQpuFBbq3dfy&key=c92f05b60d863cb63de7737b2a593711504d784afc27c6f356155e868e8cf242357eb8528b0ca995d3e3f39b83c58eb43240863426d30834c76e167ccc8db3f8f5b53348df75c2734b3611ffe95b9f1d&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2109)&version=12010110&nettype=WIFI&fontScale=100&pass_ticket=NMWkAqgkuObcpOUUzps3ohwP8Q2dJqmVrKVtUzeVllh4SQoO99smlFn9m5ndzZhb | 前瞻 | 美国2016-2045新科技趋势报告（建议收藏）
+
+http://stock.qq.com/a/20160207/010760.htm | 如何合理地进行个人资产配置？ _证券_腾讯网
+http://www.bjhonghe.com/third/third.asp?ClassID=4&lid=10004&tid=759 | 【资产配置】个人理财如何进行资产配置_策划 _ 综合理财策划_宏赫理财
+https://www.rong360.com/gl/2017/01/22/129340.html | 正太叔：如何进行个人资产配置（一）__理财频道 - 融360
+http://www.51kaogwy.cn/show/JxeK5gNSkwbVk9Pa.html | 美国幼儿教育一瞥-美国幼儿教育理念
+http://www.bing.com/knows/search?q=%e7%be%8e%e5%9b%bd%e5%b9%bc%e5%84%bf%e5%9b%ad&mkt=zh-cn | 美国幼儿园 - 必应
+https://www.douban.com/note/92393453/ | 国外幼儿园教学理念
+http://edu.sina.com.cn/zhongkao/2009-12-21/1046230970.shtml | 美国教育理念告诉中国家长“五不要”_新浪教育_新浪网
+http://www.youjiao.com/e/20111226/4ef7f0bfaae19.shtml | 美国儿童教育的一些启示_幼教网
+https://mp.weixin.qq.com/s?__biz=MjM5NjgyNDk4NA==&mid=2685958389&idx=2&sn=6ca35915fda197f314d1b4ed1ce6c0b1&chksm=830f8a02b4780314d683cef6676c63a7f75fa6a5cf6250d46c8932ec9b24a5b354b5220455a6&scene=0&key=bca8d81f29a4d80ea5009b0e0bb9b9492f486f53d43f4a3472e085aa0ef2ab09e3f9372bb0b505ffa7b61d3d15a6c1201235a800d30921f4fb9abe6ab80dcc0e4ac514991b711745f5166bc25d6d60a3&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2109)&version=12010110&nettype=WIFI&fontScale=100&pass_ticket=Gd89l1WPRtS5xwX5x5E761WwBe68R3EDF3urkC6m4AcoX2SV5mEB51sskcHXDCx5 | 【大国对话】PIIE高级研究员Jacob Kirkegaard：中高等教育缺失阻碍中国经济转型发展
+http://jiaoyu.3158.cn/20130506/n6690317177894.html | 儿童培训市场行情调查-3158教育网
+http://wenku.baidu.com/view/89191ee5bb68a98270fefad0.html | 上海市少儿培训市场调查报告_图文_百度文库
+http://www.wenkuxiazai.com/doc/a6616f89f5335a8103d22038-5.html | 浙江省少儿培训市场调查报告_文库下载
+https://mail.qq.com/cgi-bin/frame_html?sid=yTiYM1d6a2r9fn4m&r=9af0c37e4b41bb06b35f82f4282c33c7&res=local&speedcheck=1&res=local&speedcheck=1 | QQ邮箱 - 收件箱
+https://www.cfainstitute.org/programs/cfaprogram/candidate/Pages/study_planner.aspx?s_cid=eml_CCand17A_em01aBody | CFA Program Study Planner
+
+https://www.cfainstitute.org/programs/cfaprogram/register/registration/pages/address.aspx | Address
+http://bbs.pinggu.org/thread-2436643-1-1.html | 精品书籍，畅销书籍：基金定投百万富翁生产线 - 投资人（实务版）上传下载版 - 经管之家(原人大经济论坛)
+http://bbs.pinggu.org/thread-1048729-1-1.html | 中国工商银行基金定投业务营销手册 - 金融学（理论版）上传下载专区 - 经管之家(原人大经济论坛)
+http://bbs.pinggu.org/thread-4848058-1-1.html | 年年有余养老准备金基金定投计划 20160912 - 金融学（理论版）上传下载专区 - 经管之家(原人大经济论坛)
+http://bbs.pinggu.org/thread-1360148-1-1.html | 复利及年金终值现值系数表.xls 基金定投技巧“聚沙”未必“成塔 ... 股价走势构造. - 会计与财务管理上传下载区 - 经管之家(原人大经济论坛)
+http://yuedu.163.com/book_reader/b8125c974de941ca9416c14c21a59626_4 | 基金定投：百万富翁生产线-胡金盛-电子书-在线阅读-网易云阅读
+http://cn.bing.com/dict/search?q=diversification&qs=BD&pq=diversifica&sc=5-11&cvid=C75E05DB1BDB403891DB036EC93114E0 | diversification - 必应 词典
+http://money.163.com/15/0827/17/B21TJJM200254IU4.html | 中信建投：改造美林投资钟 如何全球配置资产？_网易财经
+http://ishare.iask.sina.com.cn/f/37300568.html | 美林投资钟.ppt - 爱问共享资料
+http://doc.mbalib.com/view/b526249b60ffec31185e4cb3b0605f25.html | 美林投资钟理论 - MBA智库文档
+
+https://www.zhihu.com/question/20619510 | 如果想要创立一家公司制的私募股权基金，需要什么样的知识，做什么样的准备，找什么样的合伙人，准备多少资金？ - 知乎
+https://www.zhihu.com/question/32200277 | 商业银行是否能够建立股权基金管理公司作为PE的GP？ - 知乎
+http://www.duote.com/soft/15481.html | 【卓帐终身免费财务软件(U盘版)】卓帐终身免费财务软件(U盘版) V2014111201官方免费下载_正式版下载-2345软件大全
+https://www.baidu.com/s?wd=%E5%85%8D%E8%B4%B9%E8%B4%A2%E5%8A%A1%E8%BD%AF%E4%BB%B6%20%E5%A4%9A%E7%94%A8%E6%88%B7&pn=40&oq=%E5%85%8D%E8%B4%B9%E8%B4%A2%E5%8A%A1%E8%BD%AF%E4%BB%B6%20%E5%A4%9A%E7%94%A8%E6%88%B7&tn=baiduhome_pg&ie=utf-8&rsv_idx=2&rsv_pq=8baa4a3100004b85&rsv_t=46f4zNu2ZEinzen2JcBdKddub4kXy2hBkRPPj%2BeEoopMJWRRvlzQumxfU9pLHQpz5XRJ&rsv_page=1&rsv_jmp=slow | 免费财务软件 多用户_百度搜索
+http://www.onlinedown.net/soft/14950.htm | MAOCW财务软件2016官方下载_MAOCW财务软件绿色版_MAOCW财务软件6.21.2001-华军软件园
+http://www.yobosoft.com/productshow.php?cid=14&id=52 | 永邦C3财务成长版 - 永邦免费进销存版/财务版 - 广州永邦软件科技有限公司-专注企业信息化管理，为布行企业定制个性化的ERP管理系统|行业管理软件|免费进销存软件|免费财务软件|免费仓库软件|免费管理软件,食品,手机电子电器,化妆品,珠宝,医药,五金配件,皮具箱包,布匹进销存,服装鞋帽,进销存,布业管理软件,布行进销存专业版,布匹软件,布业管理软件布行进销存,纺织布业进销存,布行软件
+http://www.zhuozhang.com/files/index.aspx | 卓帐网 - 卓越的帐务管理 - www.zhuozhang.com
+http://cn.bing.com/search?q=gopro+hero4&go=%E6%8F%90%E4%BA%A4&qs=n&form=QBLH&pq=ai&sc=8-2&sp=-1&sk=&cvid=5728607A081241E19A952AD583257FF2 | gopro hero4 - 必应
+http://digi.tech.qq.com/a/20141008/012016.htm | GoPro Hero 4系列试玩 支持4K及慢动作拍摄_数码_腾讯网
+
+http://ifenxi.baijia.baidu.com/article/635125 | 这家智能投顾公司，规模是高盛两倍--百度百家
+https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=ef4b5f918c827d0b2e5c9635e07269d301b2a202be4cd2f35f3c983d4b270b1d28353153ee6b92d43a77a03c9191dc61b057960ca08264d8035d83d55e9f6ccab3a88f750a745c53a1672dc6ba3cdf5b2a4344b004019ede4cb3cc766e12d365730eac5a466c1587e962064eb1bd4cc436885bbd9dbf64e5e072f54c166a3b88a943364ab66c4d0c9ab3f229d65d3b93898c8604a7a118296f615171bf8a57eca49948ae150eceff66a908a68f9a063b7f4be6898d3f7faae26028081d16f79bcccd678445eb&ssnerror=0#list/vmode=list&path=%2F | 百度网盘-全部文件
+http://jingyan.baidu.com/article/f25ef254750189482c1b820c.html | windows xp 访问共享文件夹的几种方法_百度经验
+http://slamkk.blog.163.com/blog/static/25611092011111510841937/ | windows下定期自动备份本地文件(文件夹) - slamkk的日志 - 网易博客
+https://mp.weixin.qq.com/s?__biz=MzAxNDM0MzQ3NA==&mid=2656341536&idx=1&sn=f647365f85dedc4eb5bc1daf17bdafbc&chksm=8034e27db7436b6b512515db079733548b22740d7a138f05924a40f27741b9376696350451e2&scene=0&key=de9885d92edfb0d7eec41858e58c5121d3a3f82a5510d40765fed9ea28bd1a04f27c7ac88f380de71f430a0b3426863b1d5350b6b8d55b308e5abf7c46efddec625d2ea26c2f22ae55f8ae29874278df&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2109)&version=12010110&nettype=WIFI&fontScale=100&pass_ticket=JRVcoDwheZ6U%2FjX%2BCSxA6UIZb02EvM1naxH1zassGYiFefi0bNe4lGcDgi%2FIadev | 投行、四大和 PE/VC都喜欢录用什么样的人才？
+https://www.zhihu.com/topic/19551275/hot | 人工智能 - 热门问答 - 知乎
+https://www.zhihu.com/question/54750621 | 随着人工智能的进步，财务工作者会大批失业么？该如何应对？ - 知乎
+https://www.gitbook.com/about | About GitBook · GitBook
+https://www.zhihu.com/question/53276615 | 如何评价吴恩达的新书machine learning yearning？ - 知乎
+https://mp.weixin.qq.com/s?__biz=MzAwNzQxMzQxOQ==&mid=2662535382&idx=1&sn=60dc5422d2bf5eff034f89bad6460618&chksm=80393b12b74eb20495017c3d3c3e651e57bf15a2049b8d332d0cf2b9f9716400305941756578&mpshare=1&scene=1&srcid=01205hQiYWTk2c8GnJmgSavk&key=a226a081696afed0e95a3f8245d709656ffe70e244d30ce1db436e7ea0398d0dc436a31a40dfb5c26ae6ed7125a65015e62a2ad4a45cfc31ac945aa14dc76a0a9a755c4710e37282ea802d9e38544209&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2109)&version=12010110&nettype=WIFI&fontScale=100&pass_ticket=PrXb7Mqi%2BmzlP7iwYpCZhTV1RYMx1E1fxWflQ76EB4Q5b8OjzJPFRNsHBgt%2BprG6 | 【线上分享第19期】金振琥教授专场3
+
+https://zhuanlan.zhihu.com/p/24891038 | 10年资产翻10倍，普通人是怎么做到的？ - 黄抒扬的文章 - 知乎专栏
+http://tech.163.com/16/1118/08/C650667O00097U80.html | AI浪潮创业者机会有哪些 如何才能成功拿到钱？_网易科技
+http://torch.ch/ | Torch | Scientific computing for LuaJIT.
+https://www.zhihu.com/question/24957481/answer/137651985?utm_source=wechat_session&utm_medium=social | 如果你有儿女即将步入大学学习金融，你会叮嘱ta什么？ - 白河愁的回答 - 知乎
+https://www.zhihu.com/question/53637434/answer/140257195 | 金融是怎么支撑实体经济的？ - 白河愁的回答 - 知乎
+http://www.jianshu.com/p/1da5375c4e9c | 《把时间当作朋友》读书笔记 - 简书
+https://zhuanlan.zhihu.com/p/24783342 | 现在，组装自己的Master - 学习编程 - 知乎专栏
+http://www.tensorfly.cn/tfdoc/get_started/introduction.html | 介绍 | TensorFlow 官方文档中文版
+http://blog.jobbole.com/105602/ | TensorFlow深度学习，一篇文章就够了 - 文章 - 伯乐在线
+http://blog.csdn.net/mydear_11000/article/details/52879710 | 数十种TensorFlow实现案例汇集：代码+笔记 - mydear_11000的专栏 - 博客频道 - CSDN.NET
+http://www.cnblogs.com/riskyer/p/3217601.html | 线性回归，logistic回归和一般回归 - you Richer - 博客园
+http://cn.bing.com/search?q=%E5%AE%9A%E6%8A%95%E5%9F%BA%E9%87%91%E5%A5%BD%E4%B8%8D%E5%A5%BD+%E7%9F%A5%E4%B9%8E&qs=n&form=QBRE&sp=-1&pq=%E5%AE%9A%E6%8A%95%E5%9F%BA%E9%87%91%E5%A5%BD%E4%B8%8D%E5%A5%BD+%E7%9F%A5%E4%B9%8E&sc=0-10&sk=&cvid=A6DFD00E02A74964BE91C77C3218AA5C | 定投基金好不好 知乎 - 必应
+https://www.zhihu.com/question/19833506 | 刚参加工作，做基金定投如何？另外，定投股票指数型基金怎么样？ - 知乎
+
+http://if.pedaily.cn/ | 新金融 - 中国新金融领域权威门户
+http://if.pedaily.cn/news/201610/20161008161298511.shtml | 麦肯锡经典报告出炉：银行业游戏规则的颠覆者，区块链18个月内影响就会发生！_新金融网_新金融
+http://if.pedaily.cn/news/201701/20170110161298635.shtml | 互联网金融“资本寒冬”是伪命题? 40天汹涌流入超60亿资金_新金融网_新金融
+http://if.pedaily.cn/news/201612/20161219161298617.shtml | 都说互联网金融不靠谱，这100家总估值已超1.1万亿，是朝鲜国民收入的6倍_新金融网_新金融
+http://mp.weixin.qq.com/s?__biz=MzA4NzM3MTI1MQ==&mid=2247484262&idx=1&sn=c670d4c777a6ba12e4f5c73935494f52&scene=21#wechat_redirect | 重磅 | 互联网财富管理，呼唤第一只独角兽
+https://github.com/bripkens/dock | bripkens/dock: Bootstrap databases, MOMs and other tools that you need for development purposes
+https://github.com/docker/toolbox/releases/tag/v1.12.5 | Release v1.12.5 · docker/toolbox
+http://business.sohu.com/20161011/n470006712.shtml | 终于把区块链的技术与应用讲清楚了-搜狐财经!!!
+http://wenku.baidu.com/link?url=EKzkxBTGo5yOPJ0vODUyMNZVU40kQA6EpHuEx7BQcp-QvBt_kgMGCps7Ngwo88bEwSpCIp-Fs-0R50kK1hoFb6BVKIzc53qAz8u1Mb3HXXu | 【图文】区块链原理详解_百度文库
+http://www.wenkuxiazai.com/doc/2fc6514349649b6648d747d2.html | 预算执行系统_文库下载
+http://www.docin.com/p-675029453.html | 预算执行与经费审批网络管理系统--需求说明书 - 豆丁网
+http://www.doc88.com/p-735459296767.html | 预算执行动态监控系统 - 技术总结 - 道客巴巴
+http://wenku.baidu.com/view/d5a25449e518964bcf847c41.html | 预算执行与经费审批网络管理系统--需求说明书_百度文库
+http://baike.baidu.com/view/4036371.htm | 全面预算管理系统_百度百科
+
+https://zhuanlan.zhihu.com/p/24252930 | 想买低价股？看看利用Python对A股低价股的这些数据分析！ - Lerther的文章 - 知乎专栏
+https://c.zju.edu.cn/bbcswebdav/pid-9988-dt-content-rid-56941_1/courses/20-MBA2016-2017-1-2041515-0000144-2-m/%E6%9E%84%E5%BB%BA%E6%88%98%E7%95%A5%E6%80%A7%E4%BA%BA%E9%99%85%E7%BD%91%E7%BB%9C.pdf | 构建战略性人际网络.pdf
+https://c.zju.edu.cn/bbcswebdav/pid-10679-dt-content-rid-67164_1/courses/20-MBA2016-2017-1-2041515-0000144-2-m/%E5%8A%A0%E9%80%9F%E5%9B%A2%E9%98%9F%E5%AD%A6%E4%B9%A0.pdf | 加速团队学习.pdf
+http://open.163.com/movie/2013/9/1/1/M97FONBM7_M97FQNK11.html | 什么让我们更热爱自己的工作?_什么让我们更热爱自己的工作?_网易公开课
+https://github.com/jhfnetboy/jToys | jhfnetboy/jToys: a series toys for the pure programmers,the developers
+https://www.zhihu.com/question/24736400 | sublime text 3 插件推荐？ - 知乎
+https://github.com/jikeytang/sublime-text | jikeytang/sublime-text: sublime-text
+http://www.cnblogs.com/yanghuahui/p/3941685.html | Docker搭建便捷的开发者环境 - yanghuahui - 博客园
+
+https://zhuanlan.zhihu.com/p/24493890 | 2016年底天使投资人踏破门槛也要投的创业白名单 - 以太资本的文章 - 知乎专栏
+https://www.zhihu.com/org/yi-tai-zi-ben/answers | 以太资本 - 知乎
+https://mp.weixin.qq.com/s?__biz=MzI4MTU4ODU4NQ==&mid=2247483652&idx=1&sn=f01be2796c8beccf409a07b7512425a1&chksm=eba7a702dcd02e1451e946b4342895167bf68776cd928c589a0b0507e92358b4fe3a91d34d66&scene=0&key=5134ab1cc362a03271c2908ed6dc374ed3a3346b79bc05fe5bc594539cbec239103bd8fc6de68caff4b790aa0e493bf0e839d06526579962197b32b011abbe5b7f86e507609984d1247960eb03072291&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2109)&version=12010110&nettype=WIFI&fontScale=100&pass_ticket=xu6ZXF%2BO5e12531i1qhtzaN2Pq2YrmL3r42hFZ0vX%2FRMvaD0WMtkz8TD2t6XhnDy | 用画箭头图法找纳什均衡点
+http://www.ppvke.com/Blog/archives/6715 | 数据科学家的7种统计学使用场景 | PPV课
+
+https://mp.weixin.qq.com/s?__biz=MjM5NDI3NjE0MQ==&mid=2651287964&idx=6&sn=6a46548284e8f53e77132dd9d07e4736&chksm=bd79e7de8a0e6ec8e368268e9952c24f25810638f0e537b7753ea4479d20f26e8d8d968dc035&mpshare=1&scene=1&srcid=1226kGmlbLoAAgfLDZ0bdfHc&key=564c3e9811aee0ab9b9cf2a419ee5512ee0d26b02fb65d1fb6651038fbef8d80f9251f5cd1f005194904abf4f07e61a50b09e0981112e86a22f56cb67b87c5ed86a658a7dd7b5f39d236b9a2944c7c63&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2009)&version=12010110&nettype=WIFI&fontScale=100&pass_ticket=8mhhhqKyv%2Bz6bwLET2k6neyYoLBtUEU3HOKz5dwWofPaluKegohlIvWHMtuESW0I | 金融大佬真传：13个改变世界观的经典思维模型
+https://www.zhihu.com/question/21305398/answer/137852429?group_id=797037203460071424 | 行业研究员分析一个公司的流程是什么？ - 李老的回答 - 知乎
+http://cn.bing.com/search?q=%E7%BD%97%E5%85%B0%E8%B4%9D%E6%A0%BC+%E5%88%B8%E5%95%86%E8%BD%AC%E5%9E%8B&go=%E6%8F%90%E4%BA%A4&qs=n&form=QBLH&pq=ai&sc=8-2&sp=-1&sk=&cvid=5728607A081241E19A952AD583257FF2 | 罗兰贝格 券商转型 - 必应
+http://www.rsdmc.com/hg/20161127/1375878.html | 瑞士信贷 | 2016财富报告：中国富人16年来增加了100倍_大名网
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650721789&idx=1&sn=bff9199914fa8127769d484a70e7bd20&chksm=871b0983b06c80959425726a5c80d9186329ab21bbce01f3a5ba4a03f6e789f9e2fbab46d8aa&scene=0&key=564c3e9811aee0abb5b4577765356e53d9894597be0cda7b7f88c8cd8e629ce0a66e66bc0cba2e3df4cea7b31d441a158c06196cad20bfcfe8fa1bf6258001227e01adb89269486918189e4e847a8a92&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2009)&version=12010110&nettype=WIFI&fontScale=100&pass_ticket=tg12Go4ViZIVgEIoBFxNhKZnb1yzyiLGh51sd5lhTldpMjvbun8HCL5NYkWvdcxW | 独家专访 | 强化学习教父Richard Sutton：也许能在2030年之前实现强人工智能算法
+
+https://7geese.com/learn-from-google-on-how-to-set-okrs/ | OKRs: Learn From Google On How to Set Goals Using OKRs - OKRs and Continuous Performance Management | 7Geese
+https://www.atiim.com/google-okr-objectives-key-results-video-transcript/ | How Google Sets Goals Using OKRs – Video Transcript
+https://www.betterworks.com/resources/ | OKRs & Goal Setting Best Practices | Resources BetterWorks
+http://www.woshipm.com/pmd/67599.html | 扔掉KPI，跟Google学习OKR管理方法 | 人人都是产品经理
+http://eleganthack.com/the-art-of-the-okr/ | The Art of the OKR
+https://weekdone.com/resources/objectives-key-results# | OKR: Objectives and Key Results - Resources, Templates, Tutorial - Weekdone
+https://www.zhihu.com/question/22471467 | (1 条消息) 谷歌内部考核制度 OKR 是怎样的？ - 知乎
+http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/ | How to Make OKRs Actually Work at Your Startup | First Round Review
+https://visible.vc/blog/okrs-startups/ | OKRs for Startups
+http://xhrwang.me/2015/02/01/intro-to-okrs.html | OKRs, aim high and try the best | Ross's Page
+https://medium.com/startup-tools/okrs-5afdc298bc28 | https://medium.com/startup-tools/okrs-5afdc298bc28
+http://ju.outofmemory.cn/entry/114732 | OKRs, aim high and try the best - 为程序员服务
+https://docs.google.com/document/d/1OHpQOvZz76_10ebJP2AKvvXUF3H9yd6FC89F5jS4mks/edit?pli=1#!
+https://c.zju.edu.cn/bbcswebdav/pid-8856-dt-content-rid-39806_1/courses/20-MBA2016-2017-1-2041515-0000144-2-m/%E6%88%9A%E7%BB%A7%E5%85%89.pdf | 明朝那些事儿4 十七　名将的起点_当年明月 小说在线阅读
+http://www.qulishi.com/renwu/yudayou/ | 俞大猷简介生平_抗倭名将俞大猷和戚继光_俞大猷武功棍法_俞大猷怎么读 - 趣历史网
+https://pro.modao.cc/app/c3198d7697f30c7fd7274a17b96bdbdec3237d58#screen=s89ae7bb8d9a28c1e624d25 | 淘汽助手5.0
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650721644&idx=1&sn=bfb26761cf5d118d4ed1dbafd04319f4&chksm=871b0912b06c8004ce420b78d657b9eee138c0e2990100ecfd759925804a0d248189b6014ba8&scene=0&key=564c3e9811aee0aba83d03f92b8d5bb2e6872a49614ffc3332531837f17128fc01abb7f26f8c21f59d86171ed1352ef2486bd564367165b8e6536efa8e8f42f8c29fdcf87453c2b4f7e3ad3bcd2bae22&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2009)&version=12010110&nettype=WIFI&fontScale=100&pass_ticket=6sQWYLbxgDXl2TYqZqMdtkvj19%2F%2BHvel7vYeeMJsRP92Q3oX0I1orTaZIQwwIxVI | 重磅 | 美国白宫再发报告：三大策略应对人工智能驱动下的自动化经济
+https://mp.weixin.qq.com/s?__biz=MzAwMDAzODk3MA==&mid=2653152754&idx=1&sn=7afccf54cac97049d1e55393ae353a9a&chksm=813844a7b64fcdb176572d98d13e2183d7ce53055e0ddb205a8082c867d11b79f051eae57026&mpshare=1&scene=1&srcid=1120W0kR81RovJfWWLMes0H4&key=564c3e9811aee0ab2f8b9d2c353b938cdae59e9b08c03642f3bab35914b8ac881562257d50155ebe7c26653851db52076e45915b491f68e6e4dc0464a78b5e6054b24811d97e0b77c811635393d017f4&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F2009)&version=12010110&nettype=WIFI&fontScale=100&pass_ticket=MxzH0Qgl81Zk0AuCoix5sB%2Feoj6gMCfmvnVA7yZ3wIJpCOQq3zFTJ5E1tdXIZ%2B53 | 用20w的仪器实测40款口罩，发现真正防霾的只有2款
+http://chuansong.me/n/2159372 | 未来商业组织不再是“公司+雇员”，而是“平台+个人”_管理智慧_传送门
+
+https://www.biaodianfu.com/okr.html | 目标管理体系：OKR - 标点符
+http://wiki.mbalib.com/wiki/OKR | OKR - MBA智库百科
+
+http://wenku.baidu.com/view/556a9bd9ce2f0066f533226c.html | 剩余控制权_剩余索取权与公司绩效_百度文库
+http://baike.baidu.com/view/163281.htm | 剩余索取权_百度百科
+http://www.wenkuxiazai.com/doc/2cd9a1829e31433238689318.html | 公司剩余索取权和控制权分配分析_文库下载
+http://wenku.baidu.com/view/dd40994de45c3b3567ec8b33.html | 办公室员工行为规范_百度文库
+http://wenku.baidu.com/view/223d670102020740be1e9b1a.html | 办公室管理制度行为规范_百度文库
+http://www.diyifanwen.com/fanwen/guizhangzhidu/10122100024261107_2.htm | 办公室员工行为规范[页2]_规章制度_第一范文网
+http://crm.tqmall.com/saint/crm/task/template/getAddTaskTemplate# | CRM
+http://crm.tqmall.com/saint/crm/task/template/getAddTaskTemplate | CRM
+http://erp.tqmall.com/saint/erp/secretary/returnGoodsBill/query_return_goods_bill?gmtCreatorByStart=2016-09-01&gmtCreatorByEnd=2016-09-30%2023:59:59 | 销售退换货申请单列表
+http://o.imoney.com.cn/Settings/CategoryList.aspx?type=1 | 收入项目 - 财智在线理财
+http://crm.tqmall.com/saint/crm/task/template/getTemplateDetail?taskId=1002 | CRM
+
+http://doc.mbalib.com/view/685200840241b28531560f597027aa19.html | 2008版ISO9000标准 - MBA智库文档
+http://erp.tqmall.com/saint/erp/secretary/returnGoodsBill/query_return_goods_bill?gmtCreatorByStart=2016-07-01&gmtCreatorByEnd=2016-08-01%2023:59:59 | 销售退换货申请单列表
+http://erp.tqmall.com/saint/erp/secretary/returnGoodsBill/goto_edit_sale_return_exchange_bill?billId=4453 | 编辑销售退换货订单信息
+http://processon.com/ | ProcessOn - 我的文件
+http://baike.baidu.com/view/3964815.htm | prezi_百度百科
+http://www.prezicn.com/portal.php | Prezi中国_Prezi爱好者交流社区,Prezi教程,Prezi模板下载,Prezi下载,Prezi中文字体下载
+http://help.axeslide.com/ad/prezi.html?f=prezicn | 斧子演示，一款简单有趣的演示文稿制作软件
+http://www.axeslide.com/space#/downloads | 斧子演示，一款简单有趣的演示文稿制作软件
+
+http://www.apesk.com/mbti/dati.asp#kaishidati | MBTI职业性格测试（完整版）(量表版本:1998-N)
+http://mp.weixin.qq.com/s?__biz=MzA4NzM3ODExMg==&mid=2657044122&idx=1&sn=7345c56660c943242ae3a45a537f3c3c&chksm=8b91b735bce63e23d20ecad90fe71a09c62766a770ca58cce93c07f23193394b9242b0f1f071&mpshare=1&scene=1&srcid=1101PIgqRAzHavMdUOfCes79#wechat_redirect | 和君商学院第十届招生简章
+
+http://www.toutiao.com/i6358736964459430402/?iid=6403560949&app=news_article | 希拉里输在了“我更好”上面 - 今日头条(www.toutiao.com)
+http://mp.weixin.qq.com/s/OsuGWNlFfDeeVBYuSFxI3w | 当你管理一个团队，一定要消灭掉这些！
+
+http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=2650610717&idx=1&sn=f23d1afadab0c22249eab5f332cd0677&chksm=834c7be9b43bf2ff13e168b25b319348da2f47d9df358721971b47f227322ee293551a6fba6c | 两种增长类型
+http://www.oschina.net/news/79500/57-most-popular-deep-learning-project-at-github | GitHub 上 57 款最流行的开源深度学习项目 - 开源中国社区
+http://cn.bing.com/search?q=iso9000%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&go=%E6%8F%90%E4%BA%A4&qs=n&form=QBLH&pq=ai&sc=8-2&sp=-1&sk=&cvid=5728607A081241E19A952AD583257FF2 | iso9000最新版本 - 必应
+http://baike.baidu.com/item/ISO9000 | ISO9000_百度百科
+http://xu.consultant.blog.163.com/blog/static/31151180201382204021874/ | ISO9001换版动向（ISO9001:2015版） - 徐老师的日志 - 网易博客
+
+http://www.doxue.com/learning_center/index | 学习中心_个人中心_都学网
+http://cet6.koolearn.com/20161123/805097.html | 2016年12月英语六级作文万能模板汇总_六级_新东方在线
+http://cet6.koolearn.com/20161123/805099.html | 2016年12月英语六级作文万能模板：开头句型_六级_新东方在线
+http://cet6.koolearn.com/20161123/805085.html | 2016年12月大学英语六级翻译练习题10篇_六级_新东方在线
+http://cet6.koolearn.com/20161124/805163.html | 2016年12月英语六级阅读高频词汇盘点_六级_新东方在线
+http://cet6.koolearn.com/20161123/805112.html | 2016年12月大学英语六级阅读高频词汇(1)_六级_新东方在线
+http://cet6.koolearn.com/20161123/805082.html | 2016年12月大学英语六级作文预测15篇_六级_新东方在线
+http://cet6.koolearn.com/20161123/805080.html | 2016年12月大学英语六级作文加分句型汇总_六级_新东方在线
+http://www.koolearn.com/lecture/72720908/151318/106200731/1337643?_method=forward | 听课页面_新东方在线_大学英语六级模考讲评【2016年12月】
+https://c.zju.edu.cn/webapps/blackboard/execute/modulepage/view?course_id=_559_1&cmp_tab_id=_543_1&mode=view | 主页 – 管理经济学(2016级MBA周末3班)
+https://c.zju.edu.cn/webapps/assignment/uploadAssignment?content_id=_8768_1&course_id=_578_1&assign_group_id=&mode=view | 上载作业： 个人作业2——毅力决定成败 – 领导力与组织行为(2016级MBA周末3班)
+http://www.xiami.com/song/1776293902 | 感觉身体被掏空-上海彩虹室内合唱团, 感觉身体被掏空MP3下载,歌词下载 - 虾米音乐
+
+http://zzhzbbs.zjol.com.cn/thread-9346119-1-1.html | 海创园是浙江人民的骄傲，全中国四大科技城之一。某些小人不要玷污海创园 - 口水楼市 - 住在杭州网-口水杭州论坛 - Powered by Discuz!
+http://www.zjfuture.gov.cn/News.aspx?deep=1&classid=1642 | 浙江杭州未来科技城 | 海创园 | 余杭组团创新基地 | 未来科技城 | 科技城
+http://www.zjfuture.gov.cn/News.aspx?classid=1646 | 浙江杭州未来科技城 | 海创园 | 余杭组团创新基地 | 未来科技城 | 科技城
+http://www.zjfuture.gov.cn/newsshow.aspx?artid=390648&classid=1646 | 杭州火车西站选址出炉 城西交通布局三网一机场 -- 浙江杭州未来科技城 | 海创园 | 余杭组团创新基地 | 未来科技城 | 科技城
+http://cn.bing.com/search?q=%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80%E5%9F%8E%E7%8E%B0%E4%BB%A3%E6%9C%89%E8%BD%A8%E7%94%B5%E8%BD%A62%E5%8F%B7%E7%BA%BF&go=%E6%8F%90%E4%BA%A4&qs=n&form=QBLH&pq=ai&sc=8-2&sp=-1&sk=&cvid=5728607A081241E19A952AD583257FF2 | 未来科技城现代有轨电车2号线 - 必应
+http://www.365gcxx.com/13203.html | 杭州未来科技城现代有轨电车首期工程（杭州余杭创新投资有限公司）-建设工程信息网 在建工程项目
+http://map.baidu.com/ | 百度地图
+http://auto.163.com/04/0722/16/0RTJPL81000816BV.html | 汽车营销除了降价还有什么招营销手段运用_网易汽车频道
+
+http://www.th7.cn/Program/php/201608/919683.shtml | Mac下安装php5.6_PHP教程_第七城市
+http://cn.bing.com/search?q=%E5%A6%82%E4%BD%95%E5%8F%91%E7%8E%B0%E7%AE%A1%E7%90%86%E9%97%AE%E9%A2%98&go=%E6%8F%90%E4%BA%A4&qs=n&form=QBLH&pq=ai&sc=8-2&sp=-1&sk=&cvid=5728607A081241E19A952AD583257FF2 | 如何发现管理问题 - 必应
+http://www.shangxueba.com/jingyan/956139.html | 如何创造性发现管理问题 - 百科教程网_经验分享平台[上学吧经验教程频道]
+http://www.bing.com/knows/search?q=%e4%bb%b7%e5%80%bc%e9%93%be%e5%88%86%e6%9e%90&mkt=zh-cn&FORM=BKACAI | 价值链分析 - 必应
+http://baike.baidu.com/view/1505996.htm | 波特价值链分析模型_百度百科
+
+https://segmentfault.com/ | SegmentFault
+http://www.gov.cn/zhengce/2016-03/07/content_5050054.htm | 代表委员解读“十三五”规划纲要（草案）亮点和重大工程项目_解读_中国政府网
+http://finance.ifeng.com/news/special/jdsswgh/ | 全方位解读十三五规划
+http://news.163.com/16/1109/18/C5ET668A000187VE.html | 解读《“十三五”全国眼健康规划（2016—2020年）》_网易新闻
+http://news.xinhuanet.com/fortune/2016-03/07/c_128779252.htm | 畅想十三五：解读“十三五”规划纲要草案-新华网
+http://www.gzhphb.com/article/54/547067.html | 【解读】圈内人解读“十三五”电力规划的那些事儿_微信排行榜
+
+http://jingyan.baidu.com/article/c33e3f4841427fea15cbb534.html | 完美的销售管理体系建设四步走_百度经验
+http://www.docin.com/p-506565880.html | 营销体系建设方案.doc - 豆丁网
+http://cn.bing.com/search?q=Oracle%e9%94%80%e5%94%ae%e4%bd%93%e7%b3%bb&FORM=QSRE8 | Oracle销售体系 - 必应
+http://wenku.baidu.com/view/0aef7b175f0e7cd1842536fb.html | 销售体系建设_百度文库
+
+http://121.42.175.89:8080/ | 怎么判，刑事判罚分析
+http://121.42.175.89:8080/about#progress | 网站信息
+http://confluence.weichedao.com/pages/viewpage.action?pageId=16679227 | 账户奖励金及返现余额更新规则 - 后宫锦衣卫 - Confluence
+http://confluence.weichedao.com/pages/viewpage.action?pageId=16685056 | 09_试用期考核标准 - 测试团队 - Confluence
+http://wenku.baidu.com/view/69cbfc1cfad6195f312ba63b.html | 【图文】员工离职原因及解决方案_百度文库
+http://cn.bing.com/search?q=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8E%9F%E5%9B%A0%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88+vdisk&go=%E6%90%9C%E7%B4%A2&qs=n&form=QBRE&pq=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8E%9F%E5%9B%A0%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88+vdisk&sc=0-17&sp=-1&sk=&cvid=6CE0FE0A9EE84C7BBD5D2956CBD16445 | 员工离职原因及解决方案 vdisk - 必应
+http://wenku.baidu.com/view/7fd17828e2bd960590c67747.html | 【图文】员工离职原因分析_百度文库
+http://doc.mbalib.com/view/55a065cd00cd6eb3d5bfb5deed9da315.html | 员工离职原因分析 - MBA智库文档
+http://www.taodocs.com/p-9046406.html | 员工离职原因及解决方案.ppt 免费在线阅读前50页-淘豆网
+http://proxy3.zju88.net/agent/thread.do?id=CareerLife-5776684b-96f47ab702ec1e042051800720598dd5&page=0&bd=CareerLife&bp=0&m=0 | 飘渺水云间 - 一个数据库项目 by qiren
+http://proxy3.zju88.net/agent/thread.do?id=BBSHelp-5061c03d-b3b4ec1b599a91018183a2a74722adda&page=1&bd=BBSHelp&bp=0&m=0 | 飘渺水云间 - 简要说明目前telnet登陆88的主要方式方法 by brightheart
+http://wenku.baidu.com/view/78b46639ddccda38376baff5.html | Minitab教程案例_图文_百度文库
+
+https://zhuanlan.zhihu.com/p/22647481 | 知识炼金术士行动指南 1.0 - HackYourself - 知乎专栏
+https://github.com/worldveil/dejavu | worldveil/dejavu: Audio fingerprinting and recognition in Python
+https://github.com/jhfnetboy/neuralnetworksanddeeplearning_2Chinese | jhfnetboy/neuralnetworksanddeeplearning_2Chinese: i try to translate the book: neuralnetworksanddeeplearning.com into chinese
+http://localhost:8080/#/film | 月亮商城
+http://confluence.weichedao.com/display/ISERVER/ISERVER | ISERVER - ISERVER - Confluence
+http://confluence.weichedao.com/pages/viewpage.action?pageId=8619232 | dubbo使用中心 - ISERVER - Confluence
+http://confluence.weichedao.com/pages/viewpage.action?pageId=4391116 | 电商平台基础知识 Home - 电商平台基础知识 - Confluence
+http://confluence.weichedao.com/pages/viewpage.action?pageId=7798789 | 职员表 - 营销特战队 - Confluence
+http://confluence.weichedao.com/pages/viewpage.action?pageId=11241904 | 金融项目1 - 账户&账务中心 - Confluence
+http://confluence.weichedao.com/pages/viewpage.action?pageId=10029297 | 轮胎批发项目 首页 - 轮胎批发项目 - Confluence
+http://confluence.weichedao.com/pages/viewpage.action?pageId=14123240 | 淘汽技术部分享 首页 - 淘汽技术部分享 - Confluence
+http://confluence.weichedao.com/pages/viewpage.action?pageId=1245214 | 大云配入口 - ERP - Confluence
+
+http://www.cnblogs.com/skyme/p/4651331.html | 一文搞懂HMM（隐马尔可夫模型） - skyme - 博客园
+
+file:///Users/jason/Desktop/%E3%80%90%E5%8E%9F%E5%9E%8B%E3%80%91%E5%AE%89%E5%BF%83%E4%BF%9D%E9%99%A9all0914/%E3%80%90%E5%8E%9F%E5%9E%8B%E3%80%91%E5%AE%89%E5%BF%83%E4%BF%9D%E9%99%A9all0914/start.html#p=投保流程 | 投保流程
+
+file:///Users/jason/Downloads/%E6%B5%8E%E5%8D%97%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E5%8F%8A%E8%AE%A1%E5%88%92.pdf | 济南工作总结及计划.pdf
+http://superb.360cec.com/home/api/info?cate_id=84#info_api_228499b55310264a8ea0e27b6e7c6ab6 | Tqmall Api文档
+https://mp.weixin.qq.com/s?__biz=MzI3MzEzMDI1OQ==&mid=2651814786&idx=1&sn=1bf2614da1e794a55d2b7f2e2cdeca13&scene=1&srcid=0819TGuEtaSeXOmXFDUqe8P4&key=8dcebf9e179c9f3a8e1a66de12d519dc92cf2259e45dfdc241412d047e95441640cf992c757ccc6f89f7cf5f7f4b15b5&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F1909)&version=11020201&pass_ticket=H3h7lf9U%2BVnMqhI8vR2zYeEK587YzzmyUs4EqORrUCC5VVjYQMQylOK7ZeWtcTq%2B | 蚂蚁金服互联网IT运维体系实践：8.59万笔/秒是这么来的！
+http://confluence.weichedao.com/pages/viewpage.action?pageId=16679790 | (8) 项目管理之上线规范 - ERP - Confluence
+http://sspai.com/32193/ | 技术写作者的专属笔记本：Quiver - 少数派
+
+http://mysqlslowlog.weichedao.com/erp_db1/analyze_erp_db1_slow_20160810.txt | mysqlslowlog.weichedao.com/erp_db1/analyze_erp_db1_slow_20160810.txt
+http://deeplearning.stanford.edu/wiki/index.php/%E5%8F%8D%E5%90%91%E4%BC%A0%E5%AF%BC%E7%AE%97%E6%B3%95 | 反向传导算法 - Ufldl
+file:///Users/jason/Downloads/%E4%BA%91%E9%85%8D%E7%B3%BB%E7%BB%9F%E5%85%A8%E8%BD%A6%E4%BB%B6%E4%B8%9A%E5%8A%A1%E6%8B%86%E5%88%86.pdf | 云配系统全车件业务拆分
+file:///Users/jason/Documents/%E5%85%A8%E8%BD%A6%E4%BB%B6%E4%BA%A4%E6%98%93%E5%90%8E%E5%8F%B0/index.html#p=需求单列表页面 | 需求单列表页面
+http://thecolourclock.co.uk/ | The Colour Clock
+http://codepen.io/ge1doot/pen/EaOxvR | Falling Hours
+http://confluence.weichedao.com/pages/viewpage.action?pageId=14717769 | 项目流程问题和解决方案 - ERP - Confluence
+http://www.17sucai.com/pins/7658.html | css3彩色圆环旋转动画效果代码_素材中国17素材网
+http://www.17sucai.com/pins/demoshow/7658 | css3彩色圆环旋转动画效果代码_素材中国17素材网
+view-source:http://www.17sucai.com/pins/demoshow/7658 | view-source:www.17sucai.com/pins/demoshow/7658
+http://www.17sucai.com/preview/119710/2014-10-31/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/index.html | HTML5立体圆环旋转动画 HTML5 3D效果在线演示
+view-source:http://www.17sucai.com/preview/119710/2014-10-31/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/index.html | view-source:www.17sucai.com/preview/119710/2014-10-31/新建文件夹/index.html
+http://www.zhangxinxu.com/wordpress/2010/08/css3js%e5%ae%9e%e7%8e%b0%e5%a4%9a%e5%bd%a9%e7%82%ab%e9%85%b7%e6%97%8b%e8%bd%ac%e5%9c%86%e7%8e%af%e6%97%b6%e9%92%9f%e6%95%88%e6%9e%9c/ | CSS3+js实现多彩炫酷旋转圆环时钟效果 « 张鑫旭-鑫空间-鑫生活
+http://www.zhangxinxu.com/study/201008/colorful-round-clock.html | 多彩炫酷环形时钟效果 >> 张鑫旭-鑫空间-鑫生活
+
+http://confluence.weichedao.com/pages/viewpage.action?pageId=16191863 | 设计开发_Rock v1.0.2 安心保险 - ERP - Confluence
+http://sommis.zju.edu.cn:85/open/course/learn?coursename=Management&videoname=Xyq-Management-07 | 浙江大学管理学院公开课
+
+http://confluence.weichedao.com/pages/viewpage.action?pageId=16188558 | 全车件云配实施值班总结 - 大云配团队 - Confluence
+
+http://www.jstory.me/ | Oh My God,Maybe the last station of mine | 我爱吃花生～！
+https://jekyllrb.com/ | Jekyll • Simple, blog-aware, static sites - Transform your plain text into static websites and blogs
+https://github.com/jhfnetboy/jhfnetboy.github.io | jhfnetboy/jhfnetboy.github.io: OMG! Lab of Mine!
+http://confluence.weichedao.com/display/IT/LDAP | LDAP - IT&运维 - Confluence
+http://www.51zhishang.com/course/list | 职上教育课程频道首页_职场课程_精品互联网课程_金融课程 - 职上网 - 职上教育 - 职上部落
+https://s.taobao.com/search?q=%E5%9F%BA%E9%87%91%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95++%E8%A7%86%E9%A2%91&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20160808 | 基金从业资格考试 视频_淘宝搜索
+https://detail.tmall.com/item.htm?spm=a230r.1.14.93.hH1yXD&id=525203646084&ns=1&abbucket=12&skuId=3126188264771 | 2016年期货/基金/银行/证券从业资格考试软件真题库押题视频课件-tmall.com天猫
+https://cart.tmall.com/?spm=a220o.1000855.0.0.1Q2lVx&scm=1048.1.12.2 | 我的购物车 - 天猫Tmall.com-上天猫，就够了
+http://www.chuanke.com/3302135-141541.html?statistics_channel_id=35&statistics_uid=19 | 2015年证券从业资格考试《证券投资基金》网络培训教程—精讲班-百度传课
+
+http://mp.weixin.qq.com/s?__biz=MjM5NjAyNjkwMA==&mid=200319426&idx=1&sn=9354c2fc5fc452573d56b5272522efb9#rd | 如何永久收藏微信内容？1分钟新技能get√！
+
+http://confluence.weichedao.com/pages/viewpage.action?pageId=16190408 | (1) 160726 - 云配后台管理模块(grace-man) - 淘汽云配 - Confluence
+http://wenku.baidu.com/link?url=VFC3RceFv099iXYqgl0CzblICTv4eO0Izgif9dPSqVGMLdKN5RQLmxLNfPRf6eT4Z43vCHBm7U609HCNzbQj0ptBW-G39pjJ6ACVkQCQErO | Learning_Deep_Architectures_for_AI_中文版_初译整理_百度文库
+http://wxphp.com/wxss_02402t02p03603202x03202v02n01w02t02t03402n01t03602r02w02x03802t02r03803903602t03702n02u03303602n01t02102nffxk1zmko02ng7xrm9k1gmx2_1.html | Learning_Deep_Architectures_for_AI_中文版_初译整理-五星文库
+http://wxphp.com/wxd_6kw8s4hso08njyz27jgi_2.html | deep learning 知识总结-五星文库
+http://confluence.weichedao.com/pages/viewpage.action?pageId=16190728 | 1.2.1_字段说明 - BI - Confluence
+https://github.com/JacksonTian/fks#javascript | JacksonTian/fks: 前端技能汇总 Frontend Knowledge Structure
+http://cnodejs.org/topic/56ef3edd532839c33a99d00e | 无法访问 http://cnodejs.org/topic/56ef3edd532839c33a99d00e
+https://github.com/PaicHyperionDev/MobileDevWeekly/blob/master/%E5%B9%B3%E5%AE%89%E7%A7%91%E6%8A%80%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E4%BA%8C%E9%98%9F%E6%8A%80%E6%9C%AF%E5%91%A8%E6%8A%A5%EF%BC%88%E7%89%B9%E5%88%AB%E7%89%88%E3%81%AEReact%20Native%E4%B8%93%E9%A2%98%EF%BC%89.md | MobileDevWeekly/平安科技移动开发二队技术周报（特别版のReact Native专题）.md at master · PaicHyperionDev/MobileDevWeekly
+http://www.amac.org.cn/cyrygl/kspt/cyryks/390871.shtml | 中国证券投资基金业协会
+http://www.amac.org.cn/cyrygl/kspt/cyryks/390870.shtml | 中国证券投资基金业协会
+http://www.amac.org.cn/cyrygl/kspt/cyryks/390869.shtml | 中国证券投资基金业协会
+http://confluence.weichedao.com/pages/viewpage.action?pageId=16188937 | 日常工作基础规范---5条铁律 - ERP - Confluence
+http://dev.tqmall.com/goldmine/grace | goldmine / grace | GitLab
+http://erp.tqmall.com/saint/erp/orderManage/orders.html | 全部订单
+
+http://synchuman.baijia.baidu.com/article/553846 | IJCAI大会，五家中美公司展示最新人工智能研究成果--百度百家
+http://www.zhizhihu.com/html/ytag/deep-learning | Deep Learning | 丕子
+http://suanfazu.com/t/topic/245 | 深度学习阅读清单 - 机器学习 / Deep Learning - 算法组
+http://sommis.zju.edu.cn:85/open/course/learn?coursename=Microeconomics&videoname=Cxd-Microeconomics-01 | 浙江大学管理学院公开课
+https://github.com/phodal/designiot-app | phodal/designiot-app: Internet of Things APP
+https://github.com/phodal/learning-ionic | phodal/learning-ionic
+https://github.com/etsy/hound | etsy/hound: Lightning fast code searching made easy
+https://swtch.com/~rsc/regexp/regexp4.html | Regular Expression Matching with a Trigram Index
+http://zentaopms.weichedao.com/index.php?m=bug&f=browse&productID=10&browseType=bySearch&queryID=31 | 云配-ERP::Bug - 禅道
+http://confluence.weichedao.com/pages/viewpage.action?pageId=14714617 | 团队管理 - ERP - Confluence
+http://blog.csdn.net/zouxy09/article/details/8775518/ | Deep Learning（深度学习）学习笔记整理系列之（三） - zouxy09的专栏 - 博客频道 - CSDN.NET
+http://www.cnblogs.com/tornadomeet/archive/2013/04/20/3033149.html | Deep learning：三十(关于数据预处理的相关技巧) - tornadomeet - 博客园
+http://blog.csdn.net/dark_scope/article/details/15809445 | KNN(k-nearest neighbor algorithm)--从原理到实现 - DarkScope从这里开始 - 博客频道 - CSDN.NET
+http://www.cnblogs.com/jerrylead/archive/2011/03/13/1982639.html | 支持向量机SVM（一） - JerryLead - 博客园
+https://s3-us-west-2.amazonaws.com/mlsurveys/106.pdf | twoface.dvi
+http://synchuman.baijia.baidu.com/article/553844 | 人工智能如何影响企业？最新报告发现四大重要事实--百度百家
+
+http://regi.zju.edu.cn/yjsyx//student_studentSchool.action?step=1&cmd=2# | 新生入学--浙江大学研究生新生迎新系统
+http://mba.zju.edu.cn/usercenter/index | 信息管理系统
+
+file:///Users/jason/PycharmProjects/Intelbots/readme.md | readme.md
+http://www.bootstrapstage.com/coming/ | We + Coming - A Free Bootstrap Coming Soon Page
+http://binarytheme.com/BTlivedemos/04-2014/13/bs-plus-coming/index-slideshow.html | Plus Coming Soon Template
+http://www.bootcss.com/ | Bootstrap中文网
+http://techcrunch.com/2015/04/28/series-a-tracxn/ | Tracxn, Which Aspires To Be The “Gartner Of Startup Data,” Grabs $3.5M Series A | TechCrunch
+file:///Users/jason/Downloads/triangle-%E5%93%8D%E5%BA%94%E5%BC%8Fbootstrap%E6%A8%A1%E6%9D%BF/documentation/index.html | Triangle - Creative Multipurpose HTML Template
+file:///Users/jason/Downloads/triangle-%E5%93%8D%E5%BA%94%E5%BC%8Fbootstrap%E6%A8%A1%E6%9D%BF/template/singlecolor/service.html | Services | Triangle
+http://www.expressjs.com.cn/ | Express - 基于 Node.js 平台的 web 应用开发框架
+http://blog.fens.me/nodejs-connect/ | Nodejs基础中间件Connect | 粉丝日志
+http://blog.fens.me/nodejs-express3/ | Nodejs开发框架Express3.0开发手记–从零开始 | 粉丝日志
+http://blog.fens.me/wp-content/uploads/2015/02/express_2.png | express_2.png (388×606)
+http://www.th7.cn/web/js/201404/29836.shtml | Nodejs学习笔记（五）--- Express安装入门与模版引擎ejs_JavaScript_第七城市
+http://www.maintao.com/2014/ejs-and-underscore-template/ | EJS和underscore模板
+http://127.0.0.1:3000/ | Express
+https://www.youtube.com/watch?v=1D-RNoDh1QU | 无法访问 https://www.youtube.com/watch?v=1D-RNoDh1QU
+http://confluence.weichedao.com/pages/viewpage.action?pageId=8618047 | 如何在公司内部通过MySQL客户端访问生产的MySQL数据库（通过redis客户端访问Redis类似） - IT&运维 - Confluence
+
+http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/ | Step by Step resource guide to learn Tableau
+http://www.zhihu.com/question/19929609 | 有哪些值得推荐的数据可视化工具？ - 商业 - 知乎
+https://www.youtube.com/watch?v=usdJgEwMinM | The best stats you've ever seen - Hans Rosling - YouTube
+http://www.analyticsvidhya.com/blog/2015/09/selection-techniques-ensemble-modelling/ | Learn to use Forward Selection Techniques for Ensemble Modeling
+http://blog.jstory.me/wp-admin/post-new.php | 撰写新文章 ‹ Oh My God,Maybe the last station of mine — WordPress
+https://github.com/FantasRu/WordCloud-CN | FantasRu/WordCloud-CN: 程序员的浪漫！
+https://hexo.io/docs/ | Documentation | Hexo
+http://www.jianshu.com/p/5265b76026d9 | Mac OS X安装 Scrapy、PIL、BeautifulSoup - 简书
+https://github.com/FantasRu/WordCloud-CN/edit/master/stopwords.txt | Editing WordCloud-CN/stopwords.txt at master · FantasRu/WordCloud-CN
+https://github.com/fxsjy/jieba | fxsjy/jieba: 结巴中文分词
+https://mp.weixin.qq.com/s?__biz=MzA3OTk2NzA1Mg==&mid=2649977324&idx=1&sn=4c343075868b77e43c3154b60d4b5476&scene=1&srcid=0526P1LCz0Aa9VGHLvh7wQwg&key=f5c31ae61525f82e7e598b8a8f050156c5db03c0826e65b851db3578c1b093fd6f407ed9936a722e602d34c95446c006&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F1808)&version=11020201&pass_ticket=UI23aUOh%2FX7Qrn9qzZt2fsyS7iRHcHRF7DlEOZrUoRsXXz%2FtRb48QBQuJ6N56LV8 | 互联网安全创业投资盘点
+http://www.ttlsa.com/mysql/using_join_no_programing_1/ | 会用JOIN，却不懂编程的“程序员” - 运维生存时间
+https://mp.weixin.qq.com/s?__biz=MjAzNzMzNTkyMQ==&mid=2653749458&idx=1&sn=9ceafd7b88c99b789b12206e5ca2d7f2&scene=0&key=f5c31ae61525f82e193bf73260817bf4219525f0ffd837e7160f29adce7e2e8a6ce23b3840a926e118e6d848674bc557&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F1808)&version=11020201&pass_ticket=UI23aUOh%2FX7Qrn9qzZt2fsyS7iRHcHRF7DlEOZrUoRsXXz%2FtRb48QBQuJ6N56LV8 | 揭开风险投资的高冷面纱：四个直击VC心灵的问题
+http://confluence.weichedao.com/pages/viewpage.action?pageId=14716000&focusedCommentId=14716179#comment-14716179 | (4) 内部服务器（公司5楼和7楼的服务器）环境梳理 - IT&运维 - Confluence
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=ERROR%202002%20(HY000)%3A%20Can%27t%20connect%20to%20local%20MySQL%20server%20through%20socket%20%27%2Ftmp%2Fmysql.sock%27%20(2)&oq=mediumtext%20longtext&rsv_pq=a2cfd9f50004820d&rsv_t=cd02yqLBez823UaSMT3IoCIIyL9Tb3NEDchggWnOO%2FNMOtbDDPXadqSCZbA&rqlang=cn&rsv_enter=1&rsv_sug3=2&rsv_sug1=1&rsv_sug7=000&rsv_sug2=0&inputT=1257&rsv_sug4=1439&rsv_sug=1 | ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/tmp_百度搜索
+http://www.jb51.net/article/56952.htm | MySQL错误ERROR 2002 (HY000): Can't connect to local MySQL server through socket_Mysql_脚本之家
+http://mail.tqmall.com/js6/main.jsp?sid=FAGQszTAgXQGHwPkwOAAcZnqSkgOtzQb&hl=zh_CN#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%221%3A1tbiARV5LE3HhI8NWAAAmV%22%2C%22fid%22%3A1326987%7D | (21332封未读) 淘汽档口
+file:///Users/jason/Downloads/%E6%B7%98%E6%B1%BD%E6%A1%A3%E5%8F%A3_PRD_%E4%BA%91%E9%85%8D%E5%85%A8%E8%BD%A6%E4%BB%B6%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A320160527.pdf | 淘汽档口_PRD_云配全车件需求文档20160527.pdf
+
+https://github.com/henrylee2cn/pholcus | 无法访问 https://github.com/henrylee2cn/pholcus
+http://www.golangtc.com/download | 无法访问 http://www.golangtc.com/download
+http://www.infoq.com/cn/news/2014/10/storm-apache-top-level-project/ | 无法访问 http://www.infoq.com/cn/news/2014/10/storm-apache-top-level-project/
+https://news.ycombinator.com/news | 无法访问 https://news.ycombinator.com/news
+https://github.com/HackerNews/API | 无法访问 https://github.com/HackerNews/API
+https://wiki.apache.org/incubator/StormProposal | 无法访问 https://wiki.apache.org/incubator/StormProposal
+https://github.com/apache/storm | 无法访问 https://github.com/apache/storm
+http://www.oschina.net/news/64907/ibm-promotes-spark-docker-node-and-go-goodies | 无法访问 http://www.oschina.net/news/64907/ibm-promotes-spark-docker-node-and-go-goodies
+http://www.cnblogs.com/Rising/p/3741116.html | 无法访问 http://www.cnblogs.com/Rising/p/3741116.html
+http://stackoverflow.com/questions/25105139/sublime-text-2-there-are-no-packages-available-for-installation | 无法访问 http://stackoverflow.com/questions/25105139/sublime-text-2-there-are-no-packages-available-for-installation
+https://packagecontrol.io/installation | 无法访问 https://packagecontrol.io/installation
+
+http://www.huaweirom.com/meihua/2630.html | 华为G7获取root权限的详细教程-华为手机技巧-华为刷机网
+http://www.huaweirom.com/guide/2567.html | 华为G7解锁bootloader教程(官方解锁)-华为刷机教程-华为刷机网
+http://ppt.geekbang.org/qconbj2016/show/112 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/100 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/89 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/88 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/69 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/65 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/62 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/154 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/152 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/153 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/150 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/149 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/147 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/148 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/144 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/143 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/142 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/141 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/140 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/139 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/137 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/136 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/134 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/133 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/132 | Qcon北京2016
+http://ppt.geekbang.org/qconbj2016/show/119 | Qcon北京2016
+http://pstatic.geekbang.org/pdf/571b29b154304.pdf?e=1461514434&token=eHNJKRTldoRsUX0uCP9M3icEhpbyh3VF9Nrk5UPM:CGxTTf5MucLJJZdXhAoftwVZnhQ= | pstatic.geekbang.org/pdf/571b29b154304.pdf?e=1461514434&token=eHNJKRTldoRsUX0uCP9M3icEhpbyh3VF9Nrk5UPM:CGxTTf5MucLJJZdXhAoftwVZnhQ=
+http://ppt.geekbang.org/qconbj2016/show/155 | Qcon北京2016
+http://pstatic.geekbang.org/pdf/571b3657248db.pdf?e=1461512877&token=eHNJKRTldoRsUX0uCP9M3icEhpbyh3VF9Nrk5UPM:Jz6KGK0gblVlMqoB9gP2itXZe1A= | QCon北京2016 - more than async
+http://confluence.weichedao.com/pages/viewpage.action?pageId=13533633 | (12) 发布 - OrderCenter - Confluence
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%9C%88%E6%B4%BB%E7%94%A8%E6%88%B7%E6%95%B0&oq=%E6%9C%88%E6%B4%BB%E7%94%A8%E6%88%B7%E6%98%AFUV%E4%B9%88&rsv_pq=81ec47170000d221&rsv_t=cfba1PdRaqckHxSD7nPZFfQIq0p8pKDtcgQS5ztvGtlhP1fyCeJbETz2RIw&rsv_enter=1&rsv_sug3=6&rsv_sug1=6&rsv_sug7=100&sug=%E6%9C%88%E6%B4%BB%E7%94%A8%E6%88%B7%E6%95%B0&rsv_n=1&bs=%E6%9C%88%E6%B4%BB%E7%94%A8%E6%88%B7%E6%98%AFUV%E4%B9%88 | 月活用户数_百度搜索
+
+https://open.taobao.com/doc2/apiList.htm?spm=a219a.7629065.0.0.PgBRBd&cid=5 | 淘宝开放平台 - 文档中心
+http://superb.360cec.com/index.php?s=/Home/email/every_day_issue.html | 技术部团队任务管理系统
+http://shiyanjun.cn/archives/325.html | 简单之美 | Dubbo架构设计详解
+http://dubbo.io/Roadmap-zh.htm | Roadmap-zh - Dubbo - Alibaba Open Sesame
+http://www.infoq.com/cn/articles/several-pain-points-architecture-design?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text | 针对架构设计的几个痛点，我总结出的架构原则和模式
+http://www.infoq.com/cn/articles/technical-architecture-of-alipay-and-ant-check-later?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text | 蚂蚁金服11.11：支付宝和蚂蚁花呗的技术架构及实践
+http://www.infoq.com/cn/presentations/basic-structure-evolution-of-large-enterprises?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text | 大型企业的基础架构演变
+http://www.infoq.com/cn/articles/oppo-monitor-platform?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text | OPPO Monitor Platform：从应用请求到后端处理，自研解决服务化架构系统监控难题
+http://www.infoq.com/cn/interviews/interview-with-ruanxiaoming-talk-mushroom-system-architecture?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=interviews_link&utm_content=link_text | 阮小明：蘑菇街的系统架构演变之路
+http://www.infoq.com/cn/presentations/container-to-build-sustainable-delivery-and-high-availability-architecture?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text | 容器打造持续交付和高可用架构的原力
+http://www.infoq.com/cn/presentations/twitter-real-time-search-engine-development-process?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text | Twitter实时搜索引擎发展历程
+http://gemantic.iteye.com/blog/1199214 | thrift的使用介绍 - - ITeye技术网站
+http://www.ibm.com/developerworks/cn/java/j-lo-apachethrift/ | Apache Thrift - 可伸缩的跨语言服务开发框架
+http://confluence.weichedao.com/pages/viewpage.action?pageId=12354252&focusedCommentId=14123508#comment-14123508 | (1) 金蝶数据库双机实施计划 - IT&运维 - Confluence
+https://z.36kr.com/project/165 | 股权投资_36氪
+
+http://mail.tqmall.com/preview/preview.do?sid=FAJcFabAyUQgowSyqTAAKaxSeCdrgfdb&uid=huifeng.jiao@tqmall.com&odfPreviewEngine=yozo&host=mail.tqmall.com&ver=js6&fontface=none&style=7&skin=skyblue&color=003399&mid=7:1tbiBw8zLFZemriKugAAmN&part=4&keyfrom=wmqiye.163.com | 附件预览 - 佳宝实施现场bug汇总_20160317.xlsx
+https://github.com/ajstarks/chart | GitHub - ajstarks/chart: Provide basic charts in go
+https://mp.weixin.qq.com/s?__biz=MzIyNTEwOTkzNw==&mid=402775987&idx=1&sn=910bb5146ae0cc2fc8cd71f3a1ad152e&scene=1&srcid=0302VY619OXrxc1HIPqzfUzo&key=710a5d99946419d9400de7fb5b51f41380cb0c6cff83ee270d238ebc1d49cafc6d243f5205e948eeaf1a431bab80ced2&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F1509)&version=11020201&pass_ticket=q0FbZ0zhGshvQxSb1p2gRj17wyDH14gxU9ZLmwD7DoqioNHI%2FuDblaM%2FQQswYzNC | 亚马逊物流+ “随机上架”背后的秘密
+http://mail.tqmall.com/js6/main.jsp?sid=FAaorqbAtsHJowlhNTAATeoUUkCwpKzw&hl=zh_CN#module=compose.ComposeModule%7C%7B%22type%22%3A%22compose%22%2C%22fullScreen%22%3Atrue%2C%22cid%22%3A%22c%3A1458647916254%22%7D | (15422封未读) 淘汽档口
+
+http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=442046&courseId=328001 | Go Web 基础 - 网易云课堂
+http://wenku.baidu.com/link?url=P_dPIvC1hgGSYzJN9H_MM00_XPf9njA7-OM44cxrxHYZvYba2bLnSyPL5hZeGjvW1BeTddjOVoYrO2HXyDTvhA5Uvo4cYKEMmtRZVacl8yq | Oracle_ERP主要模块_图文_百度文库
+http://www.cnblogs.com/quanweiru/p/5118587.html | Oracle EBS学习网站列表 - 全威儒 - 博客园
+http://www.oracle.com/technetwork/cn/indexes/documentation/oem-354782-zhs.html | Oracle 企业管理中文产品技术白皮书
+http://www.oracle.com/technetwork/cn/oem/soa-mgmt/next-generation-soa-infrastructure-352273-zhs.pdf | 下一代 SOA 基础架构
+http://www.oracle.com/technetwork/cn/oem/soa-mgmt/oracle-soa-governance-bp-352275-zhs.pdf | SOA Governance: Framework and Best Practices
+http://www.oracle.com/technetwork/cn/oem/soa-mgmt/soa-application-upgrades-352280-zhs.pdf | Application Upgrades and Service
+http://www.oracle.com/technetwork/cn/middleware/data-integration/documentation/dataservices-134528-zhs.pdf | Enterprise Data Services in SOA
+http://www.oracle.com/technetwork/cn/oem/revolution-in-agility-whitepaper-352294-zhs.pdf | A Revolution in Agility: Business Integration Through Service-Oriented Architecture
+http://www.oracle.com/technetwork/cn/oem/mst-us-en-wp-employee-productivity-352288-zhs.pdf | How to Improve Employee Productivity in Small and Medium Businesses:
+http://wenku.baidu.com/link?url=rcBLgevmclMLatfWZg_dPY37B-9TZlhcVIu9wQlgDJmcNk2JJhheHH02e8QhSQ0axWAYpVE_KID1G0nBENNqdEQkkYUBdc_yWti3nnRbwma | Oracle 模块 介绍_图文_百度文库
+http://confluence.weichedao.com/pages/viewpage.action?pageId=12353776 | ERP销售订单状态 - 测试团队 - Confluence
+http://baike.baidu.com/pic/%E6%B5%99%E6%B1%9F%E8%84%B8%E8%B0%B1%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/16170027/20000100003/5d6034a85edf8db17fd9ad220f23dd54574e7485?fr=lemma#aid=20000100003&pic=5d6034a85edf8db17fd9ad220f23dd54574e7485 | 浙江脸谱企业管理有限公司图片_百度百科
+http://confluence.weichedao.com/pages/viewpage.action?pageId=11731541 | 订单重要状态梳理 - ISERVER - Confluence
+http://open.163.com/movie/2011/7/0/A/M78065A8E_M7806OF0A.html | 【TED】伟大的领袖如何激励行动_伟大的领袖如何激励行动_网易公开课
+
+http://wenku.baidu.com/link?url=TPJaO6riUm5U8PIh-VidWVoYCUsVu_dfnR1LJuz3eLT6awaCxbIGzi6-Is4-cvKZF0YJMO0_7v2Q1A7Tp3rukM2F2p0fs6XCpj-3axduek3 | Oracle_ERP架构及流程简介_图文_百度文库
+http://wenku.baidu.com/link?url=pbedatWX9_UAX_qFSoyaTkFK0XQK_KJDLJazmL4KBP84sqKEAX0AkQ6lGO-1ujOSNTIDf-GjPagF6x96Yl9Sp2LTmpkYmW52gBX8s3PgSHG | Oracle ERP 系统核心技术架构_图文_百度文库
+https://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=405800426&idx=1&sn=7d446c5db81aceb6f4f9a05afa5b75dc&scene=1&srcid=0308oey7fcNTRJAJyZ6MMWSJ&key=710a5d99946419d9223f5292bf885e1e29f3e6341c55655d3bccc71f0a194a40cfce330d1691fdee3595efe52ae7cccf&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F1509)&version=11020201&pass_ticket=bRwfkDavAEcaMaRKp4tlT1LP07vAwAQTrZCIHxV0jJ8XkOphs88ad8za%2FaDyteJE | 首席技术官：CTO 是做什么的？
+
+http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/ | 怎样花两年时间去面试一个人
+http://www.cnblogs.com/xinz/archive/2011/08/07/2129751.html | 技能的反面 - 魔方和模仿 - SoftwareTeacher - 博客园
+https://www.graffletopia.com/stencils/1109 | Key Driver Diagram | Graffletopia
+https://guides.github.com/introduction/flow/ | Understanding the GitHub Flow · GitHub Guides
+https://www.graffletopia.com/stencils/1127 | State-Event-Fault-Tree Stencil | Graffletopia
+https://www.graffletopia.com/stencils/1115 | Gorgeous Charts and Graphs | Graffletopia
+https://www.graffletopia.com/bundles/1 | Charts and Graphs Bundle | Graffletopia
+https://www.graffletopia.com/stencils/1115 | Gorgeous Charts and Graphs | Graffletopia
+http://f.dataguru.cn/ | Dataguru炼数成金_专业数据分析论坛-Dataguru专业数据分析社区
+https://segmentfault.com/q/1010000000430041 | (3)团队开发里频繁使用 git rebase 来保持树的整洁好吗? - SegmentFault
+file:///Users/jason/Downloads/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.pdf | 编码规范
+http://jandan.net/2015/03/19/best-living-programmers.html | 14位在世的超级程序员 - Geek - 煎蛋
+https://github.com/Unknwon/go-web-foundation/blob/master/lectures/lecture1/lecture1.md | go-web-foundation/lecture1.md at master · Unknwon/go-web-foundation
+http://www.zhihu.com/question/19918532 | 弱类型、强类型、动态类型、静态类型语言的区别是什么？ - 编程语言 - 知乎
+http://mail.tqmall.com/js6/main.jsp?sid=FACaqTbAZowhownUrTAAtoSIQsifgZbw&hl=zh_CN#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%227%3A1tbiBwkeiVZemlfTDAAAmD%22%2C%22fid%22%3A1%7D | (13507封未读) 淘汽档口
+http://confluence.weichedao.com/pages/viewpage.action?pageId=11731978 | 上线WMS仓 库存初始化(云配全车件仓) - ERP - Confluence
+https://www.zhihu.com/#signin | 首页 - 知乎
+https://www.zhihu.com/topic/19670961/top-answers?page=2 | 杭州生活 - 话题精华 - 知乎
+https://www.zhihu.com/question/38100447 | 有哪位大咖能指导一下小妹2016年杭州房价走势？ - 知乎
+https://www.zhihu.com/question/30665562 | 杭州城区的未来发展是如何规划的？ - 知乎
+https://www.zhihu.com/question/29161588 | 程序员一对，适合去杭州发展吗？房价，薪资待遇，户口情况如何？软件园事业靠谱吗？杭州西湖留下的房价？ - 知乎
+
+http://beforweb.com/node/202 | UX基础 - OmniGraffle新手指南 | Be For Web - 为网而生
+http://www.codeceo.com/article/8-android-studio-plugins.html | 8 个最优秀的 Android Studio 插件 – 码农网
+http://www.codeceo.com/article/12-advanced-git-command.html | 你需要知道的12个Git高级命令 – 码农网
+http://www.codeceo.com/article/10-golden-rules-be-better-programmer.html | 成为优秀程序员的10条黄金法则 – 码农网
+http://www.zhihu.com/question/28026027 | 有什么好用的Android Studio的插件值得推荐？ - Android 开发 - 知乎
+http://www.androidchina.net/3603.html | Android Studio常用插件 – Android开发中文站
+http://www.jianshu.com/p/6f5f818afe4b | 推荐几款实用的Android Studio 插件 - 简书
+http://www.cnblogs.com/0616--ataozhijia/category/597846.html | Android Studio - 随笔分类 - demoblog - 博客园
+http://127.0.0.1:8085/ | XX-Net
+http://guide.dida365.com/ | 导航 | 滴答清单用户手册
+https://dida365.com/#p/56b1b99de4b08d98589352b0/tasks/56b1b9af502f09740347cc98 | 转变计划 - 滴答清单
+http://wenku.baidu.com/link?url=iGdGPIm0pkK2-aMcytWmTIiq6aOo8yZOLw-liAOamhPqCxeO2_CP7DzKQv9tOafqae2TMnA_TO1tovdDfwW6CIgoXZss8peGw9oNCGnHmY3 | 如何成为一个好的VC_百度文库
+http://www.ezcap.cn/news/2016/01/114703.shtml | 迅雷联合创始人程浩离职投身VC领域：“投资机构＋成功创业者”新型GP模式，十年再造一支红杉 - EZCapital 中国创业投资第一在线交流平台
+http://www.zhihu.com/question/26801029 | 如何进入风险投资（VC）公司？ - 商业 - 知乎
+http://zhuanlan.zhihu.com/edtall/19891548 | 怎么会有这么多想做VC的人？ - 游戏潮 - 知乎专栏
+https://www.zhihu.com/question/40031243/answer/84379647 | 2016 年初，知乎上都有哪些投资机构在招聘，职位的要求及候选人标准都是怎样的？ - 孙志超的回答 - 知乎
+https://www.zhihu.com/question/39908102 | 如何评价迅雷创始人程浩离职，迅雷回购 2000万美金股票？ - 互联网 - 知乎
+
+https://hub.alauda.cn/repos/centurylink/golang-tester | 浏览镜像
+http://confluence.weichedao.com/pages/viewpage.action?pageId=12353540 | (1) 金融项目数据库设计 - 后宫锦衣卫 - Confluence
+http://confluence.weichedao.com/pages/viewpage.action?pageId=12353969 | 金融项目时序图 - 账户&账务中心 - Confluence
+http://www.360doc.com/content/12/1201/10/99869_251330875.shtml | 巧吃西洋参 医治心脏病
+http://www.100yangsheng.com/tongtong/13013.html | 吃什么对心脏好？哪些中药能护心？丹参，三七，人参-佟彤-百年养生网
+http://www.zhengjia.com/jiankangyangsheng/zhongyaodaquan/784.shtml | 三七配西洋参粉的功效 对心脏病人有好处-正佳养生网
+http://www.android-studio.org/index.php/download/about-androidstudio | Android Studio 是GOOGLE官方 Android IDE
+http://127.0.0.1:8085/ | XX-Net
+http://www.zhihu.com/question/21534929 | Android Studio 比 Eclipse 好用在哪里？ - 谷歌 (Google) - 知乎
+http://segmentfault.com/a/1190000002401964 | 史上最详细的Android Studio系列教程一--下载和安装 - stormzhang - SegmentFault
+http://www.android-studio.org/index.php/88-download/ | Android Studio 中文社区(官网) -Android开发者工具集-Android SDK/JDK/Gradle/ADT-2.0下载/安装/升级/视频教程/环境配置/论坛
+http://appsgaga.com/ | AppsGaGa
+http://mail.tqmall.com/js6/main.jsp?sid=FAJFIizAoEbfqwqufTAAZGAafwWbJBuw&hl=zh_CN#module=mbox.ListModule%7C%7B%22fid%22%3A1%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%7D | (12785封未读) 淘汽档口
+https://www.baidu.com/s?ie=UTF-8&wd=graffle%E5%BD%A9%E8%89%B2%E6%A8%A1%E6%9D%BF | graffle彩色模板_百度搜索
+http://www.jianshu.com/p/a422e2e2ea8b | OmniGraffle （三）基础绘图和模具 - 简书
+https://dribbble.com/ | Dribbble - Show and tell for designers
+https://www.graffletopia.com/stencils | Newest stencils | Graffletopia
+https://bitebit.github.io/ | { BiteBit }
+
+http://lucifr.com/2012/03/07/sublime-text-2-plus-gist-equal-snippet-manager/ | Sublime Text 2 + Gist = 代码片段管理器 | Lucifr
+http://hao.jobbole.com/zipline/ | Zipline：一个Pythonic的交易算法库 - 资源 - 伯乐在线
+http://www.5icool.org/a/201312/a3664.html | 五个免费在线学习编程的网站推介 - 实用工具 - 酷站代码
+http://www.hubwiz.com/login | 用户登录 - 汇智网
+http://www.tuicool.com/articles/3eUVRn | 在线编程及其学习平台 - 推酷
+http://developer.51cto.com/art/201403/433682.htm | 编程学习好去处：35 个快速学习的编程网站(1) - 51CTO.COM
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
+https://developer.mozilla.org/en-US/Learn | Learning the Web | MDN
+http://www.ciweek.com/article/2014/0321/A20140321562899.shtml | 如何选择一个高效的在线编程学习网站
+http://www.zhihu.com/question/21123049 | 国内外编程学习网站推荐？ - 论坛推荐 - 知乎
+https://www.codecademy.com/ | Learn to code | Codecademy
+https://www.coursera.org/courses?query=programming | 课程 | Coursera
+https://www.udemy.com/courses/search/?ref=home&src=ukw&q=go&price=price-free | 最佳在线课程 | Udemy
+https://www.edx.org/ | edX | Free online courses from the world's best universities
+http://superb.360cec.com/home/email/weekly_report | 技术部团队任务管理系统
+
+http://www.19lou.com/forum-1272-thread-16828784-1-1.html | 杭州经典爬山路线推荐+爬山地图-大杭州旅游-杭州19楼
+http://www.cnblogs.com/xiaoluo501395377/archive/2013/04/07/3003278.html | Linux学习之CentOS(十三)--CentOS6.4下Mysql数据库的安装与配置 - xiaoluo501395377 - 博客园
+https://mp.weixin.qq.com/s?__biz=MjM5MzAxNTI2MA==&mid=400553947&idx=1&sn=c83111848910741bf03f1ed9ac7960bd&scene=0&key=d4b25ade3662d6435008972c967db73e081f644fc65510a083d8dd1faccfe3a6d668809548d4365fd744c6552a35b7ad&ascene=0&uin=MjEzNzE4MjUzNQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F27)&version=11020201&pass_ticket=bXwpbZMuSs1ghLD0yDDnPeU5cE8h5eh2bYf92WTsYJMPDcL%2BTrzVzQ28Ye63bWB0 | 优秀的年终总结应该这样写
+http://facebook.github.io/react/ | A JavaScript library for building user interfaces | React
+http://www.ruanyifeng.com/blog/2015/03/react.html | React 入门实例教程 - 阮一峰的网络日志
+http://facebook.github.io/react-native/ | React Native | A framework for building native apps using React
+http://www.ruanyifeng.com/blog/2015/02/future-of-dom.html | 也许，DOM 不是答案 - 阮一峰的网络日志
+https://github.com/ruanyf/react-demos | ruanyf/react-demos · GitHub
+http://www.yuanxingku.com/article-64-1.html | 一名交互设计师必备的知识架构 - 经验分享 - 原型库 - AxureRP高保真原型案例实战，原型设计，可以如此简单!
+http://mail.tqmall.com/js6/main.jsp?sid=FAqOkEiiqPrpwLIhkliiYTMaESPqKrbC&hl=zh_CN#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%225%3A1tbiBQnGJlSYTSuwwQAAm3%22%2C%22fid%22%3A1326979%7D | 网易邮箱6.0版
+http://crm.tqmall.com/saint/crm/customer/detail?customerId=21400 | Apache Tomcat/7.0.54 - Error report
+
+http://doc.mbalib.com/view/469b1f8852b3d5cf1b60644cdbb68e0e.html | 如何构建学习型组织 - MBA智库文档
+http://www.zreading.cn/archives/2412.html | 关于“学习”的完整过程 | 左岸读书
+
+http://xueshu.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%AD%A6%E4%B9%A0%E5%9E%8B%E7%BB%84%E7%BB%87&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_hit=1 | 如何构建一个学习型组织_百度学术
+http://www.e-qdpm.com/news/showIt.aspx?treeid=3095&id=4838 | www.e-qdpm.com/news/showIt.aspx?treeid=3095&id=4838
+http://wenku.baidu.com/link?url=Ogj_AWz9CPoDmiqj9JdRYSdEQTqbcmTqcAoZ4JztudCBPWmi-tgMZrYk8BuxOem3arR1jnI9KdTq9pjjGNre3cP5OhFgEcTazz_1XmF-_Km | 如何创建学习型团队_百度文库
+
+http://www.alauda.cn/2015/07/17/dockerfileinstructions/ | 手把手教你写Dockerfile， 附赠MongoDB和Nginx Dockerfile编写实例 | Alauda
+http://www.alauda.cn/price/ | 灵雀云容器服务(CaaS) - 价格 | Alauda.cn
+http://www.mikecrm.com/f.php?t=1jlFzC | 申请试用数人云 即可获得企业版镜像和使用手册
+http://www.zhihu.com/question/19851900/answer/24234193 | 怎么培养数据分析的能力？ - Han Hsiao 的回答 - 知乎
+http://mail.tqmall.com/preview/preview.do?sid=FAAmwWJGcqgsLJTJNXGGVaJIbLatVcBU&uid=huifeng.jiao@tqmall.com&odfPreviewEngine=yozo&host=mail.tqmall.com&ver=js6&fontface=none&style=7&skin=skyblue&color=003399&mid=4:1tbiBBFibVNXw2IJugAAmM&part=3&keyfrom=wmqiye.163.com | 附件预览 - wms问题反馈8.26.doc
+http://mail.tqmall.com/preview/preview.do?sid=FAAmwWJGcqgsLJTJNXGGVaJIbLatVcBU&uid=huifeng.jiao@tqmall.com&odfPreviewEngine=yozo&host=mail.tqmall.com&ver=js6&fontface=none&style=7&skin=skyblue&color=003399&mid=4:1tbiBB5hJlNXw1y0NwAAmF&part=3&keyfrom=wmqiye.163.com | 附件预览 - 服务支持系统初步分析.pdf
+file:///Users/jason/Downloads/support.html | support.html
+http://superb.360cec.com/index.php?s=/Home/Email/every_day_issue.html | 技术部团队任务管理系统
+http://mail.tqmall.com/preview/preview.do?sid=FAFRiuJGlMgWLJztYXGGdLXRbklliKGJ&uid=huifeng.jiao@tqmall.com&odfPreviewEngine=yozo&host=mail.tqmall.com&ver=js6&fontface=none&style=7&skin=skyblue&color=003399&mid=5:1tbiBQBtiVSYS6-oIAAAsB&part=3&keyfrom=wmqiye.163.com | 附件预览 - 双周会项目推进.xlsx
+http://mail.tqmall.com/preview/preview.do?sid=EAWXTnztKunbOWUIjSttBltiYIVjpoTz&uid=huifeng.jiao@tqmall.com&odfPreviewEngine=yozo&host=mail.tqmall.com&ver=js6&fontface=none&style=7&skin=skyblue&color=003399&mid=5:1tbiBRNwiVSYS8NV0gAAms&part=3&keyfrom=wmqiye.163.com | 附件预览 - wms仓库人员权限统计.xlsx
+http://mail.tqmall.com/preview/preview.do?sid=EAVOOcztPxmNOWgIoSttrmXVLksXRasz&uid=huifeng.jiao@tqmall.com&odfPreviewEngine=yozo&host=mail.tqmall.com&ver=js6&fontface=none&style=7&skin=skyblue&color=003399&mid=4:1tbiBAp5I1NXw8w4BgAAmh&part=2&keyfrom=wmqiye.163.com | 附件预览 - [商品管理后台]-业务仓库存设置需求v1.0.docx
+https://en.wikipedia.org/wiki/Learning_organization | Learning organization - Wikipedia, the free encyclopedia
+file:///Users/jason/Downloads/%E5%8E%9F%E5%9E%8B_ERP_%E8%90%BD%E5%9C%B0%E4%BB%93%E4%B8%9A%E5%8A%A1_V1.0%20(1)/start.html | Untitled Document
+http://www.cnblogs.com/xuxn/archive/2011/02/14/build-simple-web-server-with-python.html | 用Python建立最简单的web服务器 - XuXn - 博客园
+http://www.oschina.net/question/25940_19172 | Go 和 Python Web 服务器性能对比 - 开源中国社区
+http://blog.chinaunix.net/uid-26722078-id-3765795.html | 理解Tornado Web服务器epoll（高性能服务器）-iWonderLinux-ChinaUnix博客
+http://cssor.com/python-high-performance-webserver.html | 高性能python web服务器 | 听雨~昨夜卧听风吹雨，不若相忘于江湖。
+https://docs.python.org/2/library/basehttpserver.html#module-BaseHTTPServer | 20.18. BaseHTTPServer — Basic HTTP server — Python 2.7.10 documentation
+
+https://github.com/go-lang-plugin-org/go-lang-idea-plugin | go-lang-plugin-org/go-lang-idea-plugin
+https://www.processon.com/network | ProcessOn
+https://www.processon.com/diagrams/new | 新建文件 - ProcessOn
+https://www.processon.com/diagraming/558bbedae4b09bd4b8d3cc4c | LSD-TQ - ProcessOn
+http://baike.baidu.com/link?url=LDjScdd-L7tMT1M3LN6zgiXdh2gPpdUBGn8CWNctvXDrroonb0l2w133lt6OrDzxOAM6qOgN3wuahmkXT626pK | 敏捷开发_百度百科
+http://baike.baidu.com/link?url=GgZ2gf8lCG7RVZmaMjcLAsmumaJsoXxGfpF1PapbJo2Bt9RwaBAlwrAJDjbSb5gsfaRCncpA0eT6u8BMAUsuQa | Microsoft Solution Framework_百度百科
+http://wenku.baidu.com/link?url=tTMspButQyhXOdo9OYJAjo5FFP0lUMXVyD-shtr1I3efR9RoYXdKaZibfkP7NUP88UmrOaPplGgdTl5TtSFpP28OFAH4ecJUOqi8FQhUh6G | 微软MSF过程模型_百度文库
+http://ju.outofmemory.cn/entry/6812 | 微软开发框架-MSF - 为程序员服务
+https://www.baidu.com/s?ie=UTF-8&wd=%E5%93%B2%E5%AD%A6%E7%9A%84%E5%B8%B8%E8%A7%81%E6%80%9D%E8%80%83%E6%96%B9%E6%B3%95 | 哲学的常见思考方法_百度搜索
+http://www.360doc.com/content/11/0326/08/6580613_104672639.shtml | 哲学思维方式与领导工作方法
+
+http://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE#0.9 | 超文本传输协议 - 维基百科，自由的百科全书
+http://zh.wikipedia.org/wiki/HTTP%E7%8A%B6%E6%80%81%E7%A0%81 | HTTP状态码 - 维基百科，自由的百科全书
+http://blog.csdn.net/xianlingmao/article/details/7798647 | 深入理解模拟退火算法（Simulated Annealing) - Xianling Mao的专栏 - 博客频道 - CSDN.NET
+http://zy.rdeasy.cn/view/6581.html | Oracle_ERP架构及流程简介 - 资源共享
+file:///Users/jason/Downloads/WMS%E9%87%87%E8%B4%AD%E7%AE%A1%E7%90%86/start.html | Untitled Document
+https://docs.python.org/3/whatsnew/3.4.html | What’s New In Python 3.4 — Python 3.4.3 documentation
+https://docs.python.org/3/howto/index.html | Python HOWTOs — Python 3.4.3 documentation
+https://docs.python.org/3/howto/pyporting.html | Porting Python 2 Code to Python 3 — Python 3.4.3 documentation
+https://docs.python.org/3/howto/curses.html | Curses Programming with Python — Python 3.4.3 documentation
+https://docs.python.org/3/howto/logging.html | Logging HOWTO — Python 3.4.3 documentation
+https://docs.python.org/3/distributing/index.html | Distributing Python Modules — Python 3.4.3 documentation
+https://packaging.python.org/en/latest/distributing.html#creating-your-own-project | Packaging and Distributing Projects — Python Packaging User Guide documentation
+https://docs.python.org/3/library/intro.html | 1. Introduction — Python 3.4.3 documentation
+file:///Users/jason/Downloads/WMS%E8%AE%A2%E5%8D%95%E4%B8%AD%E5%BF%83%203/start.html | Untitled Document
+file:///Users/jason/Downloads/WMS%E7%89%A9%E6%B5%81%E4%BF%A1%E6%81%AF/start.html | Untitled Document
+http://www.douban.com/note/82759395/ | 怎样练习一万小时[转]
+file:///Users/jason/Downloads/WMS2.0_MS(%E8%A3%85%E7%AE%B1%E6%89%93%E5%8C%85)/start.html#p=装箱打包 | 装箱打包
+file:///Users/jason/Downloads/WMS2.0_MS(%E6%8B%A3%E8%B4%A7%E8%B4%A7%E4%BD%8D-%E5%8C%85%E8%A3%85%E5%8C%BA%E8%B4%A7%E4%BD%8D)/start.html#p=复核出库（修改） | 复核出库（修改）

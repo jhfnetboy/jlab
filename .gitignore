@@ -89,5 +89,5 @@ ENV/
 .ropeproject
 
 # vendor python sources
-wcloud/
-wcloud2/
+NLP/wcloud/
+NLP/wcloud2/
