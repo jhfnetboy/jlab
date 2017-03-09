@@ -91,3 +91,8 @@ ENV/
 # vendor python sources
 NLP/wcloud/
 NLP/wcloud2/
+FinacialProject/vnpy/
+NeuralNetwork/tensorflow-zh/
+NeuralNetwork/fast-neural-style/
+Other/gitweb-jhf/
+Virtualization/docker/
