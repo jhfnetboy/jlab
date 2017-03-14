@@ -3,6 +3,6 @@
   + NLP:Natural language processing
   + NeuralNetwork and Deep learning
   + Virtualization and VM,Docker,etc
-  + BlockChain or some tech about FinacialNetwork
+  + BlockChain or some tech about Finacial Technology
   + All the world was talking:Big data,Data mining or not great
   + Creativity and inovation,some theoretical 
